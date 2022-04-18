@@ -35,12 +35,26 @@ class DateFormatTraitTest extends TestCase
     {
         $time = DateFormatTrait::secondsToHoursMinutesSeconds(90059);
         $this->assertTrue($time === "25:00:59");
+        $this->assertTrue(DateFormatTrait::secondsToHoursMinutesSeconds(59) === "00:00:59");
+        $this->assertTrue(DateFormatTrait::secondsToHoursMinutesSeconds(60) === "00:01:00");
+        $this->assertTrue(DateFormatTrait::secondsToHoursMinutesSeconds(120) === "00:02:00");
+        $this->assertTrue(DateFormatTrait::secondsToHoursMinutesSeconds(599) === "00:09:59");
+        $this->assertTrue(DateFormatTrait::secondsToHoursMinutesSeconds(600) === "00:10:00");
+        $this->assertTrue(DateFormatTrait::secondsToHoursMinutesSeconds(3599) === "00:59:59");
+        $this->assertTrue(DateFormatTrait::secondsToHoursMinutesSeconds(3600) === "01:00:00");
     }
     
     public function testSecondIsAlwaysTwoDigits()
     {
-        $time = DateFormatTrait::secondsToHoursMinutesSeconds(90060);
-        $this->assertTrue($time === "25:01:00");
+        $this->assertTrue(DateFormatTrait::secondsToHoursMinutesSeconds(0) === "00:00:00");
+        $this->assertTrue(DateFormatTrait::secondsToHoursMinutesSeconds(1) === "00:00:01");
+        $this->assertTrue(DateFormatTrait::secondsToHoursMinutesSeconds(2) === "00:00:02");
+        $this->assertTrue(DateFormatTrait::secondsToHoursMinutesSeconds(3) === "00:00:03");
+        $this->assertTrue(DateFormatTrait::secondsToHoursMinutesSeconds(9) === "00:00:09");
+        $this->assertTrue(DateFormatTrait::secondsToHoursMinutesSeconds(10) === "00:00:10");
+        $this->assertTrue(DateFormatTrait::secondsToHoursMinutesSeconds(59) === "00:00:59");
+        $this->assertTrue(DateFormatTrait::secondsToHoursMinutesSeconds(60) === "00:01:00");
+        $this->assertTrue(DateFormatTrait::secondsToHoursMinutesSeconds(61) === "00:01:01");
     }
 
     public function testSecondCannotBeOneDigits()

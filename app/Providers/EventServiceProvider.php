@@ -2,6 +2,12 @@
 
 namespace App\Providers;
 
+use App\Entry;
+use App\Events\ProjectStartedEvent;
+use App\Events\ProjectStoppedEvent;
+use App\Listeners\SendStartedProjectNotificationListener;
+use App\Listeners\SendStoppedProjectNotificationListener;
+use App\Observers\EntryObserver;
 use Illuminate\Auth\Events\Registered;
 use Illuminate\Auth\Listeners\SendEmailVerificationNotification;
 use Illuminate\Foundation\Support\Providers\EventServiceProvider as ServiceProvider;
@@ -18,6 +24,12 @@ class EventServiceProvider extends ServiceProvider
         Registered::class => [
             SendEmailVerificationNotification::class,
         ],
+        ProjectStartedEvent::class => [
+            SendStartedProjectNotificationListener::class
+        ],
+        ProjectStoppedEvent::class => [
+            SendStoppedProjectNotificationListener::class
+        ],
     ];
 
     /**
@@ -29,6 +41,6 @@ class EventServiceProvider extends ServiceProvider
     {
         parent::boot();
 
-        //
+        Entry::observe(EntryObserver::class);
     }
 }

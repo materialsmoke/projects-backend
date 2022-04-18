@@ -20,6 +20,7 @@ class ProjectIndexResource extends JsonResource
             'name' => $this->name,
             'workingTimeSeconds' => DateFormatTrait::secondsToHoursMinutesSeconds($this->working_time_seconds),
             "totalEntries" => $this->total_entries,
+            "isStopped" => $this->is_stopped,
         ];
     }
 }

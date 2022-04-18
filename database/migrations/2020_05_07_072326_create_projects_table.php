@@ -19,6 +19,7 @@ class CreateProjectsTable extends Migration
             $table->string('name')->unique();
             $table->unsignedBigInteger('total_entries')->default(0);
             $table->unsignedBigInteger('working_time_seconds')->default(0);
+            $table->boolean('is_stopped')->default(true);
             $table->timestamps();
 
             $table->foreign('user_id')->on('users')->references('id')->onDelete('cascade')->onUpdate('cascade');
