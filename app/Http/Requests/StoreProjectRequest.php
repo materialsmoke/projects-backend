@@ -24,7 +24,8 @@ class StoreProjectRequest extends FormRequest
     public function rules()
     {
         return [
-            'name'=>'unique:projects,name,'
+            // 'name'=>'unique:projects,name,'
+            'name'=>'unique:projects,name,NULL,id,user_id,' . $this->user()->id
         ];
     }
 }

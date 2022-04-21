@@ -7,6 +7,7 @@ use App\Project;
 use Tests\TestCase;
 use Illuminate\Foundation\Testing\WithFaker;
 use Illuminate\Foundation\Testing\RefreshDatabase;
+use Illuminate\Support\Facades\Log;
 
 class EntryTest extends TestCase
 {
@@ -92,6 +93,30 @@ class EntryTest extends TestCase
         $this->actingAs($user)->postJson('/api/projects/' . $project->id . '/start');
         $this->actingAs($user)->postJson('/api/projects/' . $otherProject->id . '/start');
         $response = $this->actingAs($user)->patchJson('/api/projects/' . $project->id . '/stop');
+        $response->assertJson([
+            "status"=> "success",
+            "message"=> "Project is already stopped"
+        ]);
+    }
+
+    public function testIf()
+    {
+        $user = factory(User::class)->create();
+        $project = factory(Project::class)->create();
+        // 'working_time_seconds', 'total_entries', 'is_stopped'
+        $otherProject = factory(Project::class)->create();
+        $this->actingAs($user)->postJson('/api/projects/' . $project->id . '/start');
+        $this->actingAs($user)->postJson('/api/projects/' . $otherProject->id . '/start');
+        Log::info('========= Test Started');
+        // sleep(2);
+        $response = $this->actingAs($user)->patchJson('/api/projects/' . $project->id . '/stop');
+        // sleep(2);
+        // dd($p1);
+        $pro1 = Project::find(1);
+        Log::info($pro1);
+        Log::info('========= Test Ended');
+        dd($pro1);
+        // dd($p1->entries);
         $response->assertJson([
             "status"=> "success",
             "message"=> "Project is already stopped"

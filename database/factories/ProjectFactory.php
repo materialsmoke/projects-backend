@@ -8,6 +8,9 @@ use Illuminate\Database\Eloquent\Factory;
 $factory->define(Project::class, function (Faker $faker) {
     return [
         'user_id' => 1,
-        'name' => $faker->company
+        'name' => $faker->company,
+        'working_time_seconds'=>0,
+        'total_entries' => 0, 
+        'is_stopped' => 1,
     ];
 });
