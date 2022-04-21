@@ -22,8 +22,8 @@ class StopOtherWorkingProjectService
             $unStoppedEntry->end = now();
             $unStoppedEntry->save();
     
-            $unStoppedEntry->project->working_time_seconds = $unStoppedEntry->project->working_time_seconds + now()->diffInSeconds($unStoppedEntry->start);
-            $unStoppedEntry->project->save();
+            // $unStoppedEntry->project->working_time_seconds = $unStoppedEntry->project->working_time_seconds + now()->diffInSeconds($unStoppedEntry->start);
+            // $unStoppedEntry->project->save();
         }
         
     }

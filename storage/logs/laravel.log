@@ -50,3 +50,862 @@
 [2022-04-18 10:49:31] testing.INFO: Project 2 started  
 [2022-04-18 10:49:31] testing.INFO: here is send sms service  
 [2022-04-18 10:49:31] testing.INFO: SMS Project 2 started  
+[2022-04-18 11:01:08] local.INFO: {"start":"2022-04-18T09:01:08.435122Z","project_id":7,"updated_at":"2022-04-18T09:01:08.000000Z","created_at":"2022-04-18T09:01:08.000000Z","id":109,"project":{"id":7,"user_id":1,"name":"2","total_entries":1,"working_time_seconds":0,"is_stopped":false,"created_at":"2022-04-18T09:01:03.000000Z","updated_at":"2022-04-18T09:01:08.000000Z","entries":[{"id":109,"start":"2022-04-18 11:01:08","end":null,"project_id":7,"created_at":"2022-04-18T09:01:08.000000Z","updated_at":"2022-04-18T09:01:08.000000Z"}]}}  
+[2022-04-18 11:01:08] local.INFO: Project 7 started  
+[2022-04-18 11:01:08] local.INFO: here is send sms service  
+[2022-04-18 11:01:08] local.INFO: SMS Project 7 started  
+[2022-04-18 11:01:15] local.INFO: Project 7 stopped  
+[2022-04-18 11:01:15] local.INFO: here is send sms service  
+[2022-04-18 11:01:15] local.INFO: SMS Project 7 stopped  
+[2022-04-18 11:01:15] local.INFO: {"start":"2022-04-18T09:01:15.151371Z","project_id":6,"updated_at":"2022-04-18T09:01:15.000000Z","created_at":"2022-04-18T09:01:15.000000Z","id":110,"project":{"id":6,"user_id":1,"name":"zcvvv","total_entries":5,"working_time_seconds":1036,"is_stopped":false,"created_at":"2022-04-18T05:25:26.000000Z","updated_at":"2022-04-18T09:01:15.000000Z","entries":[{"id":70,"start":"2022-04-18 08:35:42","end":"2022-04-18 08:36:45","project_id":6,"created_at":"2022-04-18T06:35:42.000000Z","updated_at":"2022-04-18T06:36:45.000000Z"},{"id":72,"start":"2022-04-18 08:36:58","end":"2022-04-18 08:37:15","project_id":6,"created_at":"2022-04-18T06:36:58.000000Z","updated_at":"2022-04-18T06:37:15.000000Z"},{"id":74,"start":"2022-04-18 09:00:49","end":"2022-04-18 09:08:00","project_id":6,"created_at":"2022-04-18T07:00:49.000000Z","updated_at":"2022-04-18T07:08:00.000000Z"},{"id":82,"start":"2022-04-18 09:26:21","end":"2022-04-18 09:26:28","project_id":6,"created_at":"2022-04-18T07:26:21.000000Z","updated_at":"2022-04-18T07:26:28.000000Z"},{"id":110,"start":"2022-04-18 11:01:15","end":null,"project_id":6,"created_at":"2022-04-18T09:01:15.000000Z","updated_at":"2022-04-18T09:01:15.000000Z"}]}}  
+[2022-04-18 11:01:15] local.INFO: Project 6 started  
+[2022-04-18 11:01:15] local.INFO: here is send sms service  
+[2022-04-18 11:01:15] local.INFO: SMS Project 6 started  
+[2022-04-18 11:01:18] local.INFO: Project 6 stopped  
+[2022-04-18 11:01:18] local.INFO: here is send sms service  
+[2022-04-18 11:01:18] local.INFO: SMS Project 6 stopped  
+[2022-04-18 11:06:15] testing.INFO: {"start":"2022-04-18T09:06:15.634248Z","project_id":1,"updated_at":"2022-04-18T09:06:15.000000Z","created_at":"2022-04-18T09:06:15.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Olson, Streich and Dickens","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-18T09:06:15.000000Z","updated_at":"2022-04-18T09:06:15.000000Z","entries":[{"id":1,"start":"2022-04-18 11:06:15","end":null,"project_id":"1","created_at":"2022-04-18T09:06:15.000000Z","updated_at":"2022-04-18T09:06:15.000000Z"}]}}  
+[2022-04-18 11:06:15] testing.INFO: Project 1 started  
+[2022-04-18 11:06:15] testing.INFO: here is send sms service  
+[2022-04-18 11:06:15] testing.INFO: SMS Project 1 started  
+[2022-04-18 11:06:15] testing.INFO: {"start":"2022-04-18T09:06:15.828294Z","project_id":1,"updated_at":"2022-04-18T09:06:15.000000Z","created_at":"2022-04-18T09:06:15.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Lynch, Fay and Nolan","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-18T09:06:15.000000Z","updated_at":"2022-04-18T09:06:15.000000Z","entries":[{"id":1,"start":"2022-04-18 11:06:15","end":null,"project_id":"1","created_at":"2022-04-18T09:06:15.000000Z","updated_at":"2022-04-18T09:06:15.000000Z"}]}}  
+[2022-04-18 11:06:15] testing.INFO: Project 1 started  
+[2022-04-18 11:06:15] testing.INFO: here is send sms service  
+[2022-04-18 11:06:15] testing.INFO: SMS Project 1 started  
+[2022-04-18 11:06:15] testing.INFO: {"start":"2022-04-18T09:06:15.872817Z","project_id":1,"updated_at":"2022-04-18T09:06:15.000000Z","created_at":"2022-04-18T09:06:15.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Romaguera, Marks and Pouros","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-18T09:06:15.000000Z","updated_at":"2022-04-18T09:06:15.000000Z","entries":[{"id":1,"start":"2022-04-18 11:06:15","end":null,"project_id":"1","created_at":"2022-04-18T09:06:15.000000Z","updated_at":"2022-04-18T09:06:15.000000Z"}]}}  
+[2022-04-18 11:06:15] testing.INFO: Project 1 started  
+[2022-04-18 11:06:15] testing.INFO: here is send sms service  
+[2022-04-18 11:06:15] testing.INFO: SMS Project 1 started  
+[2022-04-18 11:06:15] testing.INFO: Project 1 stopped  
+[2022-04-18 11:06:15] testing.INFO: here is send sms service  
+[2022-04-18 11:06:15] testing.INFO: SMS Project 1 stopped  
+[2022-04-18 11:06:15] testing.INFO: {"start":"2022-04-18T09:06:15.919026Z","project_id":1,"updated_at":"2022-04-18T09:06:15.000000Z","created_at":"2022-04-18T09:06:15.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Wisoky-Hansen","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-18T09:06:15.000000Z","updated_at":"2022-04-18T09:06:15.000000Z","entries":[{"id":1,"start":"2022-04-18 11:06:15","end":null,"project_id":"1","created_at":"2022-04-18T09:06:15.000000Z","updated_at":"2022-04-18T09:06:15.000000Z"}]}}  
+[2022-04-18 11:06:15] testing.INFO: Project 1 started  
+[2022-04-18 11:06:15] testing.INFO: here is send sms service  
+[2022-04-18 11:06:15] testing.INFO: SMS Project 1 started  
+[2022-04-18 11:06:15] testing.INFO: Project 1 stopped  
+[2022-04-18 11:06:15] testing.INFO: here is send sms service  
+[2022-04-18 11:06:15] testing.INFO: SMS Project 1 stopped  
+[2022-04-18 11:06:15] testing.INFO: {"start":"2022-04-18T09:06:15.927179Z","project_id":2,"updated_at":"2022-04-18T09:06:15.000000Z","created_at":"2022-04-18T09:06:15.000000Z","id":2,"project":{"id":2,"user_id":"1","name":"Frami Inc","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-18T09:06:15.000000Z","updated_at":"2022-04-18T09:06:15.000000Z","entries":[{"id":2,"start":"2022-04-18 11:06:15","end":null,"project_id":"2","created_at":"2022-04-18T09:06:15.000000Z","updated_at":"2022-04-18T09:06:15.000000Z"}]}}  
+[2022-04-18 11:06:15] testing.INFO: Project 2 started  
+[2022-04-18 11:06:15] testing.INFO: here is send sms service  
+[2022-04-18 11:06:15] testing.INFO: SMS Project 2 started  
+[2022-04-18 11:06:22] testing.INFO: {"start":"2022-04-18T09:06:22.215680Z","project_id":1,"updated_at":"2022-04-18T09:06:22.000000Z","created_at":"2022-04-18T09:06:22.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Schulist-Feeney","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-18T09:06:22.000000Z","updated_at":"2022-04-18T09:06:22.000000Z","entries":[{"id":1,"start":"2022-04-18 11:06:22","end":null,"project_id":"1","created_at":"2022-04-18T09:06:22.000000Z","updated_at":"2022-04-18T09:06:22.000000Z"}]}}  
+[2022-04-18 11:06:22] testing.INFO: Project 1 started  
+[2022-04-18 11:06:22] testing.INFO: here is send sms service  
+[2022-04-18 11:06:22] testing.INFO: SMS Project 1 started  
+[2022-04-18 11:06:22] testing.INFO: {"start":"2022-04-18T09:06:22.454654Z","project_id":1,"updated_at":"2022-04-18T09:06:22.000000Z","created_at":"2022-04-18T09:06:22.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Sanford-Luettgen","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-18T09:06:22.000000Z","updated_at":"2022-04-18T09:06:22.000000Z","entries":[{"id":1,"start":"2022-04-18 11:06:22","end":null,"project_id":"1","created_at":"2022-04-18T09:06:22.000000Z","updated_at":"2022-04-18T09:06:22.000000Z"}]}}  
+[2022-04-18 11:06:22] testing.INFO: Project 1 started  
+[2022-04-18 11:06:22] testing.INFO: here is send sms service  
+[2022-04-18 11:06:22] testing.INFO: SMS Project 1 started  
+[2022-04-18 11:06:22] testing.INFO: {"start":"2022-04-18T09:06:22.502814Z","project_id":1,"updated_at":"2022-04-18T09:06:22.000000Z","created_at":"2022-04-18T09:06:22.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Hammes and Sons","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-18T09:06:22.000000Z","updated_at":"2022-04-18T09:06:22.000000Z","entries":[{"id":1,"start":"2022-04-18 11:06:22","end":null,"project_id":"1","created_at":"2022-04-18T09:06:22.000000Z","updated_at":"2022-04-18T09:06:22.000000Z"}]}}  
+[2022-04-18 11:06:22] testing.INFO: Project 1 started  
+[2022-04-18 11:06:22] testing.INFO: here is send sms service  
+[2022-04-18 11:06:22] testing.INFO: SMS Project 1 started  
+[2022-04-18 11:06:22] testing.INFO: Project 1 stopped  
+[2022-04-18 11:06:22] testing.INFO: here is send sms service  
+[2022-04-18 11:06:22] testing.INFO: SMS Project 1 stopped  
+[2022-04-18 11:06:22] testing.INFO: {"start":"2022-04-18T09:06:22.548686Z","project_id":1,"updated_at":"2022-04-18T09:06:22.000000Z","created_at":"2022-04-18T09:06:22.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Kirlin-Sipes","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-18T09:06:22.000000Z","updated_at":"2022-04-18T09:06:22.000000Z","entries":[{"id":1,"start":"2022-04-18 11:06:22","end":null,"project_id":"1","created_at":"2022-04-18T09:06:22.000000Z","updated_at":"2022-04-18T09:06:22.000000Z"}]}}  
+[2022-04-18 11:06:22] testing.INFO: Project 1 started  
+[2022-04-18 11:06:22] testing.INFO: here is send sms service  
+[2022-04-18 11:06:22] testing.INFO: SMS Project 1 started  
+[2022-04-18 11:06:22] testing.INFO: Project 1 stopped  
+[2022-04-18 11:06:22] testing.INFO: here is send sms service  
+[2022-04-18 11:06:22] testing.INFO: SMS Project 1 stopped  
+[2022-04-18 11:06:22] testing.INFO: {"start":"2022-04-18T09:06:22.558404Z","project_id":2,"updated_at":"2022-04-18T09:06:22.000000Z","created_at":"2022-04-18T09:06:22.000000Z","id":2,"project":{"id":2,"user_id":"1","name":"Wiza and Sons","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-18T09:06:22.000000Z","updated_at":"2022-04-18T09:06:22.000000Z","entries":[{"id":2,"start":"2022-04-18 11:06:22","end":null,"project_id":"2","created_at":"2022-04-18T09:06:22.000000Z","updated_at":"2022-04-18T09:06:22.000000Z"}]}}  
+[2022-04-18 11:06:22] testing.INFO: Project 2 started  
+[2022-04-18 11:06:22] testing.INFO: here is send sms service  
+[2022-04-18 11:06:22] testing.INFO: SMS Project 2 started  
+[2022-04-18 11:06:50] testing.INFO: {"start":"2022-04-18T09:06:50.549495Z","project_id":1,"updated_at":"2022-04-18T09:06:50.000000Z","created_at":"2022-04-18T09:06:50.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"McClure-Hegmann","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-18T09:06:50.000000Z","updated_at":"2022-04-18T09:06:50.000000Z","entries":[{"id":1,"start":"2022-04-18 11:06:50","end":null,"project_id":"1","created_at":"2022-04-18T09:06:50.000000Z","updated_at":"2022-04-18T09:06:50.000000Z"}]}}  
+[2022-04-18 11:06:50] testing.INFO: Project 1 started  
+[2022-04-18 11:06:50] testing.INFO: here is send sms service  
+[2022-04-18 11:06:50] testing.INFO: SMS Project 1 started  
+[2022-04-18 11:06:50] testing.INFO: {"start":"2022-04-18T09:06:50.761796Z","project_id":1,"updated_at":"2022-04-18T09:06:50.000000Z","created_at":"2022-04-18T09:06:50.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Bosco, Conroy and Schuster","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-18T09:06:50.000000Z","updated_at":"2022-04-18T09:06:50.000000Z","entries":[{"id":1,"start":"2022-04-18 11:06:50","end":null,"project_id":"1","created_at":"2022-04-18T09:06:50.000000Z","updated_at":"2022-04-18T09:06:50.000000Z"}]}}  
+[2022-04-18 11:06:50] testing.INFO: Project 1 started  
+[2022-04-18 11:06:50] testing.INFO: here is send sms service  
+[2022-04-18 11:06:50] testing.INFO: SMS Project 1 started  
+[2022-04-18 11:06:50] testing.INFO: {"start":"2022-04-18T09:06:50.807516Z","project_id":1,"updated_at":"2022-04-18T09:06:50.000000Z","created_at":"2022-04-18T09:06:50.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Greenfelder LLC","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-18T09:06:50.000000Z","updated_at":"2022-04-18T09:06:50.000000Z","entries":[{"id":1,"start":"2022-04-18 11:06:50","end":null,"project_id":"1","created_at":"2022-04-18T09:06:50.000000Z","updated_at":"2022-04-18T09:06:50.000000Z"}]}}  
+[2022-04-18 11:06:50] testing.INFO: Project 1 started  
+[2022-04-18 11:06:50] testing.INFO: here is send sms service  
+[2022-04-18 11:06:50] testing.INFO: SMS Project 1 started  
+[2022-04-18 11:06:50] testing.INFO: Project 1 stopped  
+[2022-04-18 11:06:50] testing.INFO: here is send sms service  
+[2022-04-18 11:06:50] testing.INFO: SMS Project 1 stopped  
+[2022-04-18 11:06:50] testing.INFO: {"start":"2022-04-18T09:06:50.869026Z","project_id":1,"updated_at":"2022-04-18T09:06:50.000000Z","created_at":"2022-04-18T09:06:50.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Armstrong-Jones","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-18T09:06:50.000000Z","updated_at":"2022-04-18T09:06:50.000000Z","entries":[{"id":1,"start":"2022-04-18 11:06:50","end":null,"project_id":"1","created_at":"2022-04-18T09:06:50.000000Z","updated_at":"2022-04-18T09:06:50.000000Z"}]}}  
+[2022-04-18 11:06:50] testing.INFO: Project 1 started  
+[2022-04-18 11:06:50] testing.INFO: here is send sms service  
+[2022-04-18 11:06:50] testing.INFO: SMS Project 1 started  
+[2022-04-18 11:06:50] testing.INFO: Project 1 stopped  
+[2022-04-18 11:06:50] testing.INFO: here is send sms service  
+[2022-04-18 11:06:50] testing.INFO: SMS Project 1 stopped  
+[2022-04-18 11:06:50] testing.INFO: {"start":"2022-04-18T09:06:50.877038Z","project_id":2,"updated_at":"2022-04-18T09:06:50.000000Z","created_at":"2022-04-18T09:06:50.000000Z","id":2,"project":{"id":2,"user_id":"1","name":"Willms-Langosh","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-18T09:06:50.000000Z","updated_at":"2022-04-18T09:06:50.000000Z","entries":[{"id":2,"start":"2022-04-18 11:06:50","end":null,"project_id":"2","created_at":"2022-04-18T09:06:50.000000Z","updated_at":"2022-04-18T09:06:50.000000Z"}]}}  
+[2022-04-18 11:06:50] testing.INFO: Project 2 started  
+[2022-04-18 11:06:50] testing.INFO: here is send sms service  
+[2022-04-18 11:06:50] testing.INFO: SMS Project 2 started  
+[2022-04-18 11:06:50] testing.ERROR: SQLSTATE[23000]: Integrity constraint violation: 19 UNIQUE constraint failed: projects.name (SQL: insert into "projects" ("user_id", "name", "updated_at", "created_at") values (1, Denesik-Crooks, 2022-04-18 11:06:50, 2022-04-18 11:06:50)) {"userId":1,"exception":"[object] (Illuminate\\Database\\QueryException(code: 23000): SQLSTATE[23000]: Integrity constraint violation: 19 UNIQUE constraint failed: projects.name (SQL: insert into \"projects\" (\"user_id\", \"name\", \"updated_at\", \"created_at\") values (1, Denesik-Crooks, 2022-04-18 11:06:50, 2022-04-18 11:06:50)) at C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php:671)
+[stacktrace]
+#0 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(631): Illuminate\\Database\\Connection->runQueryCallback('insert into \"pr...', Array, Object(Closure))
+#1 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(465): Illuminate\\Database\\Connection->run('insert into \"pr...', Array, Object(Closure))
+#2 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(417): Illuminate\\Database\\Connection->statement('insert into \"pr...', Array)
+#3 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Processors\\Processor.php(32): Illuminate\\Database\\Connection->insert('insert into \"pr...', Array)
+#4 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Builder.php(2747): Illuminate\\Database\\Query\\Processors\\Processor->processInsertGetId(Object(Illuminate\\Database\\Query\\Builder), 'insert into \"pr...', Array, 'id')
+#5 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Builder.php(1403): Illuminate\\Database\\Query\\Builder->insertGetId(Array, 'id')
+#6 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(867): Illuminate\\Database\\Eloquent\\Builder->__call('insertGetId', Array)
+#7 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(832): Illuminate\\Database\\Eloquent\\Model->insertAndSetId(Object(Illuminate\\Database\\Eloquent\\Builder), Array)
+#8 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(695): Illuminate\\Database\\Eloquent\\Model->performInsert(Object(Illuminate\\Database\\Eloquent\\Builder))
+#9 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Builder.php(767): Illuminate\\Database\\Eloquent\\Model->save()
+#10 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\helpers.php(433): Illuminate\\Database\\Eloquent\\Builder->Illuminate\\Database\\Eloquent\\{closure}(Object(App\\Project))
+#11 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Builder.php(768): tap(Object(App\\Project), Object(Closure))
+#12 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Traits\\ForwardsCalls.php(23): Illuminate\\Database\\Eloquent\\Builder->create(Array)
+#13 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(1694): Illuminate\\Database\\Eloquent\\Model->forwardCallTo(Object(Illuminate\\Database\\Eloquent\\Builder), 'create', Array)
+#14 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(1706): Illuminate\\Database\\Eloquent\\Model->__call('create', Array)
+#15 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\app\\Http\\Controllers\\Api\\ProjectController.php(38): Illuminate\\Database\\Eloquent\\Model::__callStatic('create', Array)
+#16 [internal function]: App\\Http\\Controllers\\Api\\ProjectController->store(Object(App\\Http\\Requests\\StoreProjectRequest))
+#17 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Controller.php(54): call_user_func_array(Array, Array)
+#18 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php(45): Illuminate\\Routing\\Controller->callAction('store', Array)
+#19 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(239): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\Api\\ProjectController), 'store')
+#20 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(196): Illuminate\\Routing\\Route->runController()
+#21 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(685): Illuminate\\Routing\\Route->run()
+#22 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(128): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#23 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\app\\Http\\Middleware\\JsonResponse.php(20): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#24 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): App\\Http\\Middleware\\JsonResponse->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#25 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(41): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#26 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#27 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\ThrottleRequests.php(59): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#28 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Routing\\Middleware\\ThrottleRequests->handle(Object(Illuminate\\Http\\Request), Object(Closure), 200, '1')
+#29 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Middleware\\Authenticate.php(44): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#30 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Auth\\Middleware\\Authenticate->handle(Object(Illuminate\\Http\\Request), Object(Closure), 'sanctum')
+#31 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\sanctum\\src\\Http\\Middleware\\EnsureFrontendRequestsAreStateful.php(33): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#32 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(128): Laravel\\Sanctum\\Http\\Middleware\\EnsureFrontendRequestsAreStateful->Laravel\\Sanctum\\Http\\Middleware\\{closure}(Object(Illuminate\\Http\\Request))
+#33 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(103): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#34 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\sanctum\\src\\Http\\Middleware\\EnsureFrontendRequestsAreStateful.php(34): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#35 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Laravel\\Sanctum\\Http\\Middleware\\EnsureFrontendRequestsAreStateful->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#36 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(103): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#37 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(687): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#38 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(662): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#39 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(628): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#40 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(617): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#41 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(165): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#42 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(128): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#43 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#44 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#45 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#46 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#47 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#48 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#49 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode.php(63): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#50 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#51 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\fruitcake\\laravel-cors\\src\\HandleCors.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#52 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Fruitcake\\Cors\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#53 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\fideloper\\proxy\\src\\TrustProxies.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#54 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#55 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(103): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#56 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(140): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#57 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(109): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#58 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Testing\\Concerns\\MakesHttpRequests.php(468): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#59 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Testing\\Concerns\\MakesHttpRequests.php(440): Illuminate\\Foundation\\Testing\\TestCase->call('POST', '/api/projects', Array, Array, Array, Array, '{\"name\":\"Denesi...')
+#60 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Testing\\Concerns\\MakesHttpRequests.php(299): Illuminate\\Foundation\\Testing\\TestCase->json('POST', '/api/projects', Array, Array)
+#61 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\tests\\Feature\\ProjectTest.php(20): Illuminate\\Foundation\\Testing\\TestCase->postJson('/api/projects', Array)
+#62 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\src\\Framework\\TestCase.php(1415): Tests\\Feature\\ProjectTest->testCreatingProjectWithExistingNameFails()
+#63 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\src\\Framework\\TestCase.php(1035): PHPUnit\\Framework\\TestCase->runTest()
+#64 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\src\\Framework\\TestResult.php(691): PHPUnit\\Framework\\TestCase->runBare()
+#65 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\src\\Framework\\TestCase.php(763): PHPUnit\\Framework\\TestResult->run(Object(Tests\\Feature\\ProjectTest))
+#66 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\src\\Framework\\TestSuite.php(597): PHPUnit\\Framework\\TestCase->run(Object(PHPUnit\\Framework\\TestResult))
+#67 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\src\\Framework\\TestSuite.php(597): PHPUnit\\Framework\\TestSuite->run(Object(PHPUnit\\Framework\\TestResult))
+#68 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\src\\Framework\\TestSuite.php(597): PHPUnit\\Framework\\TestSuite->run(Object(PHPUnit\\Framework\\TestResult))
+#69 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\src\\TextUI\\TestRunner.php(621): PHPUnit\\Framework\\TestSuite->run(Object(PHPUnit\\Framework\\TestResult))
+#70 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\src\\TextUI\\Command.php(204): PHPUnit\\TextUI\\TestRunner->doRun(Object(PHPUnit\\Framework\\TestSuite), Array, Array, true)
+#71 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\src\\TextUI\\Command.php(163): PHPUnit\\TextUI\\Command->run(Array, true)
+#72 phpvfscomposer://C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\phpunit(60): PHPUnit\\TextUI\\Command::main()
+#73 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\bin\\phpunit(115): include('phpvfscomposer:...')
+#74 {main}
+
+[previous exception] [object] (PDOException(code: 23000): SQLSTATE[23000]: Integrity constraint violation: 19 UNIQUE constraint failed: projects.name at C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php:464)
+[stacktrace]
+#0 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(464): PDOStatement->execute()
+#1 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(664): Illuminate\\Database\\Connection->Illuminate\\Database\\{closure}('insert into \"pr...', Array)
+#2 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(631): Illuminate\\Database\\Connection->runQueryCallback('insert into \"pr...', Array, Object(Closure))
+#3 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(465): Illuminate\\Database\\Connection->run('insert into \"pr...', Array, Object(Closure))
+#4 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(417): Illuminate\\Database\\Connection->statement('insert into \"pr...', Array)
+#5 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Processors\\Processor.php(32): Illuminate\\Database\\Connection->insert('insert into \"pr...', Array)
+#6 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Builder.php(2747): Illuminate\\Database\\Query\\Processors\\Processor->processInsertGetId(Object(Illuminate\\Database\\Query\\Builder), 'insert into \"pr...', Array, 'id')
+#7 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Builder.php(1403): Illuminate\\Database\\Query\\Builder->insertGetId(Array, 'id')
+#8 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(867): Illuminate\\Database\\Eloquent\\Builder->__call('insertGetId', Array)
+#9 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(832): Illuminate\\Database\\Eloquent\\Model->insertAndSetId(Object(Illuminate\\Database\\Eloquent\\Builder), Array)
+#10 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(695): Illuminate\\Database\\Eloquent\\Model->performInsert(Object(Illuminate\\Database\\Eloquent\\Builder))
+#11 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Builder.php(767): Illuminate\\Database\\Eloquent\\Model->save()
+#12 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\helpers.php(433): Illuminate\\Database\\Eloquent\\Builder->Illuminate\\Database\\Eloquent\\{closure}(Object(App\\Project))
+#13 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Builder.php(768): tap(Object(App\\Project), Object(Closure))
+#14 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Traits\\ForwardsCalls.php(23): Illuminate\\Database\\Eloquent\\Builder->create(Array)
+#15 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(1694): Illuminate\\Database\\Eloquent\\Model->forwardCallTo(Object(Illuminate\\Database\\Eloquent\\Builder), 'create', Array)
+#16 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(1706): Illuminate\\Database\\Eloquent\\Model->__call('create', Array)
+#17 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\app\\Http\\Controllers\\Api\\ProjectController.php(38): Illuminate\\Database\\Eloquent\\Model::__callStatic('create', Array)
+#18 [internal function]: App\\Http\\Controllers\\Api\\ProjectController->store(Object(App\\Http\\Requests\\StoreProjectRequest))
+#19 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Controller.php(54): call_user_func_array(Array, Array)
+#20 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php(45): Illuminate\\Routing\\Controller->callAction('store', Array)
+#21 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(239): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\Api\\ProjectController), 'store')
+#22 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(196): Illuminate\\Routing\\Route->runController()
+#23 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(685): Illuminate\\Routing\\Route->run()
+#24 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(128): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#25 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\app\\Http\\Middleware\\JsonResponse.php(20): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#26 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): App\\Http\\Middleware\\JsonResponse->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#27 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(41): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#28 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#29 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\ThrottleRequests.php(59): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#30 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Routing\\Middleware\\ThrottleRequests->handle(Object(Illuminate\\Http\\Request), Object(Closure), 200, '1')
+#31 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Middleware\\Authenticate.php(44): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#32 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Auth\\Middleware\\Authenticate->handle(Object(Illuminate\\Http\\Request), Object(Closure), 'sanctum')
+#33 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\sanctum\\src\\Http\\Middleware\\EnsureFrontendRequestsAreStateful.php(33): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#34 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(128): Laravel\\Sanctum\\Http\\Middleware\\EnsureFrontendRequestsAreStateful->Laravel\\Sanctum\\Http\\Middleware\\{closure}(Object(Illuminate\\Http\\Request))
+#35 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(103): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#36 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\sanctum\\src\\Http\\Middleware\\EnsureFrontendRequestsAreStateful.php(34): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#37 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Laravel\\Sanctum\\Http\\Middleware\\EnsureFrontendRequestsAreStateful->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#38 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(103): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#39 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(687): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#40 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(662): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#41 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(628): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#42 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(617): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#43 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(165): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#44 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(128): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#45 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#46 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#47 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#48 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#49 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#50 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#51 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode.php(63): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#52 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#53 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\fruitcake\\laravel-cors\\src\\HandleCors.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#54 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Fruitcake\\Cors\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#55 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\fideloper\\proxy\\src\\TrustProxies.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#56 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#57 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(103): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#58 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(140): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#59 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(109): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#60 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Testing\\Concerns\\MakesHttpRequests.php(468): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#61 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Testing\\Concerns\\MakesHttpRequests.php(440): Illuminate\\Foundation\\Testing\\TestCase->call('POST', '/api/projects', Array, Array, Array, Array, '{\"name\":\"Denesi...')
+#62 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Testing\\Concerns\\MakesHttpRequests.php(299): Illuminate\\Foundation\\Testing\\TestCase->json('POST', '/api/projects', Array, Array)
+#63 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\tests\\Feature\\ProjectTest.php(20): Illuminate\\Foundation\\Testing\\TestCase->postJson('/api/projects', Array)
+#64 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\src\\Framework\\TestCase.php(1415): Tests\\Feature\\ProjectTest->testCreatingProjectWithExistingNameFails()
+#65 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\src\\Framework\\TestCase.php(1035): PHPUnit\\Framework\\TestCase->runTest()
+#66 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\src\\Framework\\TestResult.php(691): PHPUnit\\Framework\\TestCase->runBare()
+#67 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\src\\Framework\\TestCase.php(763): PHPUnit\\Framework\\TestResult->run(Object(Tests\\Feature\\ProjectTest))
+#68 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\src\\Framework\\TestSuite.php(597): PHPUnit\\Framework\\TestCase->run(Object(PHPUnit\\Framework\\TestResult))
+#69 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\src\\Framework\\TestSuite.php(597): PHPUnit\\Framework\\TestSuite->run(Object(PHPUnit\\Framework\\TestResult))
+#70 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\src\\Framework\\TestSuite.php(597): PHPUnit\\Framework\\TestSuite->run(Object(PHPUnit\\Framework\\TestResult))
+#71 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\src\\TextUI\\TestRunner.php(621): PHPUnit\\Framework\\TestSuite->run(Object(PHPUnit\\Framework\\TestResult))
+#72 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\src\\TextUI\\Command.php(204): PHPUnit\\TextUI\\TestRunner->doRun(Object(PHPUnit\\Framework\\TestSuite), Array, Array, true)
+#73 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\src\\TextUI\\Command.php(163): PHPUnit\\TextUI\\Command->run(Array, true)
+#74 phpvfscomposer://C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\phpunit(60): PHPUnit\\TextUI\\Command::main()
+#75 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\bin\\phpunit(115): include('phpvfscomposer:...')
+#76 {main}
+"} 
+[2022-04-18 11:07:12] testing.INFO: {"start":"2022-04-18T09:07:12.987247Z","project_id":1,"updated_at":"2022-04-18T09:07:12.000000Z","created_at":"2022-04-18T09:07:12.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Johnson-Gulgowski","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-18T09:07:12.000000Z","updated_at":"2022-04-18T09:07:12.000000Z","entries":[{"id":1,"start":"2022-04-18 11:07:12","end":null,"project_id":"1","created_at":"2022-04-18T09:07:12.000000Z","updated_at":"2022-04-18T09:07:12.000000Z"}]}}  
+[2022-04-18 11:07:13] testing.INFO: Project 1 started  
+[2022-04-18 11:07:13] testing.INFO: here is send sms service  
+[2022-04-18 11:07:13] testing.INFO: SMS Project 1 started  
+[2022-04-18 11:07:13] testing.INFO: {"start":"2022-04-18T09:07:13.180646Z","project_id":1,"updated_at":"2022-04-18T09:07:13.000000Z","created_at":"2022-04-18T09:07:13.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Schumm-Koepp","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-18T09:07:13.000000Z","updated_at":"2022-04-18T09:07:13.000000Z","entries":[{"id":1,"start":"2022-04-18 11:07:13","end":null,"project_id":"1","created_at":"2022-04-18T09:07:13.000000Z","updated_at":"2022-04-18T09:07:13.000000Z"}]}}  
+[2022-04-18 11:07:13] testing.INFO: Project 1 started  
+[2022-04-18 11:07:13] testing.INFO: here is send sms service  
+[2022-04-18 11:07:13] testing.INFO: SMS Project 1 started  
+[2022-04-18 11:07:13] testing.INFO: {"start":"2022-04-18T09:07:13.226622Z","project_id":1,"updated_at":"2022-04-18T09:07:13.000000Z","created_at":"2022-04-18T09:07:13.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Hansen-Welch","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-18T09:07:13.000000Z","updated_at":"2022-04-18T09:07:13.000000Z","entries":[{"id":1,"start":"2022-04-18 11:07:13","end":null,"project_id":"1","created_at":"2022-04-18T09:07:13.000000Z","updated_at":"2022-04-18T09:07:13.000000Z"}]}}  
+[2022-04-18 11:07:13] testing.INFO: Project 1 started  
+[2022-04-18 11:07:13] testing.INFO: here is send sms service  
+[2022-04-18 11:07:13] testing.INFO: SMS Project 1 started  
+[2022-04-18 11:07:13] testing.INFO: Project 1 stopped  
+[2022-04-18 11:07:13] testing.INFO: here is send sms service  
+[2022-04-18 11:07:13] testing.INFO: SMS Project 1 stopped  
+[2022-04-18 11:07:13] testing.INFO: {"start":"2022-04-18T09:07:13.282713Z","project_id":1,"updated_at":"2022-04-18T09:07:13.000000Z","created_at":"2022-04-18T09:07:13.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Miller-Schinner","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-18T09:07:13.000000Z","updated_at":"2022-04-18T09:07:13.000000Z","entries":[{"id":1,"start":"2022-04-18 11:07:13","end":null,"project_id":"1","created_at":"2022-04-18T09:07:13.000000Z","updated_at":"2022-04-18T09:07:13.000000Z"}]}}  
+[2022-04-18 11:07:13] testing.INFO: Project 1 started  
+[2022-04-18 11:07:13] testing.INFO: here is send sms service  
+[2022-04-18 11:07:13] testing.INFO: SMS Project 1 started  
+[2022-04-18 11:07:13] testing.INFO: Project 1 stopped  
+[2022-04-18 11:07:13] testing.INFO: here is send sms service  
+[2022-04-18 11:07:13] testing.INFO: SMS Project 1 stopped  
+[2022-04-18 11:07:13] testing.INFO: {"start":"2022-04-18T09:07:13.292140Z","project_id":2,"updated_at":"2022-04-18T09:07:13.000000Z","created_at":"2022-04-18T09:07:13.000000Z","id":2,"project":{"id":2,"user_id":"1","name":"Shields-Stoltenberg","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-18T09:07:13.000000Z","updated_at":"2022-04-18T09:07:13.000000Z","entries":[{"id":2,"start":"2022-04-18 11:07:13","end":null,"project_id":"2","created_at":"2022-04-18T09:07:13.000000Z","updated_at":"2022-04-18T09:07:13.000000Z"}]}}  
+[2022-04-18 11:07:13] testing.INFO: Project 2 started  
+[2022-04-18 11:07:13] testing.INFO: here is send sms service  
+[2022-04-18 11:07:13] testing.INFO: SMS Project 2 started  
+[2022-04-18 11:07:13] testing.ERROR: SQLSTATE[23000]: Integrity constraint violation: 19 UNIQUE constraint failed: projects.name (SQL: insert into "projects" ("user_id", "name", "updated_at", "created_at") values (1, Carroll, Funk and Ritchie, 2022-04-18 11:07:13, 2022-04-18 11:07:13)) {"userId":1,"exception":"[object] (Illuminate\\Database\\QueryException(code: 23000): SQLSTATE[23000]: Integrity constraint violation: 19 UNIQUE constraint failed: projects.name (SQL: insert into \"projects\" (\"user_id\", \"name\", \"updated_at\", \"created_at\") values (1, Carroll, Funk and Ritchie, 2022-04-18 11:07:13, 2022-04-18 11:07:13)) at C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php:671)
+[stacktrace]
+#0 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(631): Illuminate\\Database\\Connection->runQueryCallback('insert into \"pr...', Array, Object(Closure))
+#1 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(465): Illuminate\\Database\\Connection->run('insert into \"pr...', Array, Object(Closure))
+#2 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(417): Illuminate\\Database\\Connection->statement('insert into \"pr...', Array)
+#3 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Processors\\Processor.php(32): Illuminate\\Database\\Connection->insert('insert into \"pr...', Array)
+#4 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Builder.php(2747): Illuminate\\Database\\Query\\Processors\\Processor->processInsertGetId(Object(Illuminate\\Database\\Query\\Builder), 'insert into \"pr...', Array, 'id')
+#5 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Builder.php(1403): Illuminate\\Database\\Query\\Builder->insertGetId(Array, 'id')
+#6 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(867): Illuminate\\Database\\Eloquent\\Builder->__call('insertGetId', Array)
+#7 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(832): Illuminate\\Database\\Eloquent\\Model->insertAndSetId(Object(Illuminate\\Database\\Eloquent\\Builder), Array)
+#8 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(695): Illuminate\\Database\\Eloquent\\Model->performInsert(Object(Illuminate\\Database\\Eloquent\\Builder))
+#9 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Builder.php(767): Illuminate\\Database\\Eloquent\\Model->save()
+#10 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\helpers.php(433): Illuminate\\Database\\Eloquent\\Builder->Illuminate\\Database\\Eloquent\\{closure}(Object(App\\Project))
+#11 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Builder.php(768): tap(Object(App\\Project), Object(Closure))
+#12 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Traits\\ForwardsCalls.php(23): Illuminate\\Database\\Eloquent\\Builder->create(Array)
+#13 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(1694): Illuminate\\Database\\Eloquent\\Model->forwardCallTo(Object(Illuminate\\Database\\Eloquent\\Builder), 'create', Array)
+#14 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(1706): Illuminate\\Database\\Eloquent\\Model->__call('create', Array)
+#15 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\app\\Http\\Controllers\\Api\\ProjectController.php(38): Illuminate\\Database\\Eloquent\\Model::__callStatic('create', Array)
+#16 [internal function]: App\\Http\\Controllers\\Api\\ProjectController->store(Object(App\\Http\\Requests\\StoreProjectRequest))
+#17 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Controller.php(54): call_user_func_array(Array, Array)
+#18 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php(45): Illuminate\\Routing\\Controller->callAction('store', Array)
+#19 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(239): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\Api\\ProjectController), 'store')
+#20 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(196): Illuminate\\Routing\\Route->runController()
+#21 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(685): Illuminate\\Routing\\Route->run()
+#22 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(128): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#23 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\app\\Http\\Middleware\\JsonResponse.php(20): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#24 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): App\\Http\\Middleware\\JsonResponse->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#25 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(41): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#26 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#27 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\ThrottleRequests.php(59): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#28 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Routing\\Middleware\\ThrottleRequests->handle(Object(Illuminate\\Http\\Request), Object(Closure), 200, '1')
+#29 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Middleware\\Authenticate.php(44): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#30 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Auth\\Middleware\\Authenticate->handle(Object(Illuminate\\Http\\Request), Object(Closure), 'sanctum')
+#31 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\sanctum\\src\\Http\\Middleware\\EnsureFrontendRequestsAreStateful.php(33): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#32 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(128): Laravel\\Sanctum\\Http\\Middleware\\EnsureFrontendRequestsAreStateful->Laravel\\Sanctum\\Http\\Middleware\\{closure}(Object(Illuminate\\Http\\Request))
+#33 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(103): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#34 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\sanctum\\src\\Http\\Middleware\\EnsureFrontendRequestsAreStateful.php(34): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#35 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Laravel\\Sanctum\\Http\\Middleware\\EnsureFrontendRequestsAreStateful->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#36 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(103): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#37 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(687): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#38 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(662): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#39 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(628): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#40 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(617): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#41 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(165): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#42 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(128): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#43 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#44 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#45 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#46 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#47 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#48 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#49 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode.php(63): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#50 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#51 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\fruitcake\\laravel-cors\\src\\HandleCors.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#52 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Fruitcake\\Cors\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#53 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\fideloper\\proxy\\src\\TrustProxies.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#54 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#55 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(103): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#56 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(140): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#57 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(109): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#58 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Testing\\Concerns\\MakesHttpRequests.php(468): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#59 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Testing\\Concerns\\MakesHttpRequests.php(440): Illuminate\\Foundation\\Testing\\TestCase->call('POST', '/api/projects', Array, Array, Array, Array, '{\"name\":\"Carrol...')
+#60 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Testing\\Concerns\\MakesHttpRequests.php(299): Illuminate\\Foundation\\Testing\\TestCase->json('POST', '/api/projects', Array, Array)
+#61 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\tests\\Feature\\ProjectTest.php(20): Illuminate\\Foundation\\Testing\\TestCase->postJson('/api/projects', Array)
+#62 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\src\\Framework\\TestCase.php(1415): Tests\\Feature\\ProjectTest->testCreatingProjectWithExistingNameFails()
+#63 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\src\\Framework\\TestCase.php(1035): PHPUnit\\Framework\\TestCase->runTest()
+#64 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\src\\Framework\\TestResult.php(691): PHPUnit\\Framework\\TestCase->runBare()
+#65 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\src\\Framework\\TestCase.php(763): PHPUnit\\Framework\\TestResult->run(Object(Tests\\Feature\\ProjectTest))
+#66 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\src\\Framework\\TestSuite.php(597): PHPUnit\\Framework\\TestCase->run(Object(PHPUnit\\Framework\\TestResult))
+#67 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\src\\Framework\\TestSuite.php(597): PHPUnit\\Framework\\TestSuite->run(Object(PHPUnit\\Framework\\TestResult))
+#68 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\src\\Framework\\TestSuite.php(597): PHPUnit\\Framework\\TestSuite->run(Object(PHPUnit\\Framework\\TestResult))
+#69 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\src\\TextUI\\TestRunner.php(621): PHPUnit\\Framework\\TestSuite->run(Object(PHPUnit\\Framework\\TestResult))
+#70 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\src\\TextUI\\Command.php(204): PHPUnit\\TextUI\\TestRunner->doRun(Object(PHPUnit\\Framework\\TestSuite), Array, Array, true)
+#71 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\src\\TextUI\\Command.php(163): PHPUnit\\TextUI\\Command->run(Array, true)
+#72 phpvfscomposer://C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\phpunit(60): PHPUnit\\TextUI\\Command::main()
+#73 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\bin\\phpunit(115): include('phpvfscomposer:...')
+#74 {main}
+
+[previous exception] [object] (PDOException(code: 23000): SQLSTATE[23000]: Integrity constraint violation: 19 UNIQUE constraint failed: projects.name at C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php:464)
+[stacktrace]
+#0 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(464): PDOStatement->execute()
+#1 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(664): Illuminate\\Database\\Connection->Illuminate\\Database\\{closure}('insert into \"pr...', Array)
+#2 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(631): Illuminate\\Database\\Connection->runQueryCallback('insert into \"pr...', Array, Object(Closure))
+#3 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(465): Illuminate\\Database\\Connection->run('insert into \"pr...', Array, Object(Closure))
+#4 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(417): Illuminate\\Database\\Connection->statement('insert into \"pr...', Array)
+#5 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Processors\\Processor.php(32): Illuminate\\Database\\Connection->insert('insert into \"pr...', Array)
+#6 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Builder.php(2747): Illuminate\\Database\\Query\\Processors\\Processor->processInsertGetId(Object(Illuminate\\Database\\Query\\Builder), 'insert into \"pr...', Array, 'id')
+#7 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Builder.php(1403): Illuminate\\Database\\Query\\Builder->insertGetId(Array, 'id')
+#8 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(867): Illuminate\\Database\\Eloquent\\Builder->__call('insertGetId', Array)
+#9 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(832): Illuminate\\Database\\Eloquent\\Model->insertAndSetId(Object(Illuminate\\Database\\Eloquent\\Builder), Array)
+#10 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(695): Illuminate\\Database\\Eloquent\\Model->performInsert(Object(Illuminate\\Database\\Eloquent\\Builder))
+#11 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Builder.php(767): Illuminate\\Database\\Eloquent\\Model->save()
+#12 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\helpers.php(433): Illuminate\\Database\\Eloquent\\Builder->Illuminate\\Database\\Eloquent\\{closure}(Object(App\\Project))
+#13 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Builder.php(768): tap(Object(App\\Project), Object(Closure))
+#14 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Traits\\ForwardsCalls.php(23): Illuminate\\Database\\Eloquent\\Builder->create(Array)
+#15 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(1694): Illuminate\\Database\\Eloquent\\Model->forwardCallTo(Object(Illuminate\\Database\\Eloquent\\Builder), 'create', Array)
+#16 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(1706): Illuminate\\Database\\Eloquent\\Model->__call('create', Array)
+#17 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\app\\Http\\Controllers\\Api\\ProjectController.php(38): Illuminate\\Database\\Eloquent\\Model::__callStatic('create', Array)
+#18 [internal function]: App\\Http\\Controllers\\Api\\ProjectController->store(Object(App\\Http\\Requests\\StoreProjectRequest))
+#19 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Controller.php(54): call_user_func_array(Array, Array)
+#20 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php(45): Illuminate\\Routing\\Controller->callAction('store', Array)
+#21 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(239): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\Api\\ProjectController), 'store')
+#22 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(196): Illuminate\\Routing\\Route->runController()
+#23 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(685): Illuminate\\Routing\\Route->run()
+#24 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(128): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#25 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\app\\Http\\Middleware\\JsonResponse.php(20): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#26 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): App\\Http\\Middleware\\JsonResponse->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#27 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(41): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#28 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#29 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\ThrottleRequests.php(59): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#30 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Routing\\Middleware\\ThrottleRequests->handle(Object(Illuminate\\Http\\Request), Object(Closure), 200, '1')
+#31 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Middleware\\Authenticate.php(44): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#32 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Auth\\Middleware\\Authenticate->handle(Object(Illuminate\\Http\\Request), Object(Closure), 'sanctum')
+#33 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\sanctum\\src\\Http\\Middleware\\EnsureFrontendRequestsAreStateful.php(33): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#34 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(128): Laravel\\Sanctum\\Http\\Middleware\\EnsureFrontendRequestsAreStateful->Laravel\\Sanctum\\Http\\Middleware\\{closure}(Object(Illuminate\\Http\\Request))
+#35 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(103): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#36 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\sanctum\\src\\Http\\Middleware\\EnsureFrontendRequestsAreStateful.php(34): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#37 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Laravel\\Sanctum\\Http\\Middleware\\EnsureFrontendRequestsAreStateful->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#38 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(103): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#39 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(687): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#40 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(662): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#41 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(628): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#42 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(617): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#43 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(165): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#44 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(128): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#45 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#46 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#47 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#48 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#49 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#50 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#51 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode.php(63): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#52 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#53 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\fruitcake\\laravel-cors\\src\\HandleCors.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#54 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Fruitcake\\Cors\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#55 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\fideloper\\proxy\\src\\TrustProxies.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#56 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#57 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(103): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#58 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(140): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#59 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(109): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#60 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Testing\\Concerns\\MakesHttpRequests.php(468): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#61 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Testing\\Concerns\\MakesHttpRequests.php(440): Illuminate\\Foundation\\Testing\\TestCase->call('POST', '/api/projects', Array, Array, Array, Array, '{\"name\":\"Carrol...')
+#62 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Testing\\Concerns\\MakesHttpRequests.php(299): Illuminate\\Foundation\\Testing\\TestCase->json('POST', '/api/projects', Array, Array)
+#63 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\tests\\Feature\\ProjectTest.php(20): Illuminate\\Foundation\\Testing\\TestCase->postJson('/api/projects', Array)
+#64 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\src\\Framework\\TestCase.php(1415): Tests\\Feature\\ProjectTest->testCreatingProjectWithExistingNameFails()
+#65 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\src\\Framework\\TestCase.php(1035): PHPUnit\\Framework\\TestCase->runTest()
+#66 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\src\\Framework\\TestResult.php(691): PHPUnit\\Framework\\TestCase->runBare()
+#67 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\src\\Framework\\TestCase.php(763): PHPUnit\\Framework\\TestResult->run(Object(Tests\\Feature\\ProjectTest))
+#68 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\src\\Framework\\TestSuite.php(597): PHPUnit\\Framework\\TestCase->run(Object(PHPUnit\\Framework\\TestResult))
+#69 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\src\\Framework\\TestSuite.php(597): PHPUnit\\Framework\\TestSuite->run(Object(PHPUnit\\Framework\\TestResult))
+#70 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\src\\Framework\\TestSuite.php(597): PHPUnit\\Framework\\TestSuite->run(Object(PHPUnit\\Framework\\TestResult))
+#71 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\src\\TextUI\\TestRunner.php(621): PHPUnit\\Framework\\TestSuite->run(Object(PHPUnit\\Framework\\TestResult))
+#72 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\src\\TextUI\\Command.php(204): PHPUnit\\TextUI\\TestRunner->doRun(Object(PHPUnit\\Framework\\TestSuite), Array, Array, true)
+#73 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\src\\TextUI\\Command.php(163): PHPUnit\\TextUI\\Command->run(Array, true)
+#74 phpvfscomposer://C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\phpunit\\phpunit\\phpunit(60): PHPUnit\\TextUI\\Command::main()
+#75 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\bin\\phpunit(115): include('phpvfscomposer:...')
+#76 {main}
+"} 
+[2022-04-18 15:34:46] local.INFO: {"start":"2022-04-18T13:34:46.460435Z","project_id":1,"updated_at":"2022-04-18T13:34:46.000000Z","created_at":"2022-04-18T13:34:46.000000Z","id":1,"project":{"id":1,"user_id":1,"name":"Test Project","total_entries":1,"working_time_seconds":0,"is_stopped":false,"created_at":null,"updated_at":"2022-04-18T13:34:46.000000Z","entries":[{"id":1,"start":"2022-04-18 15:34:46","end":null,"project_id":1,"created_at":"2022-04-18T13:34:46.000000Z","updated_at":"2022-04-18T13:34:46.000000Z"}]}}  
+[2022-04-18 15:34:46] local.INFO: Project 1 started  
+[2022-04-18 15:34:46] local.INFO: here is send sms service  
+[2022-04-18 15:34:46] local.INFO: SMS Project 1 started  
+[2022-04-18 15:35:04] local.INFO: Project 1 stopped  
+[2022-04-18 15:35:04] local.INFO: here is send sms service  
+[2022-04-18 15:35:04] local.INFO: SMS Project 1 stopped  
+[2022-04-18 15:35:06] local.INFO: {"start":"2022-04-18T13:35:06.002492Z","project_id":1,"updated_at":"2022-04-18T13:35:06.000000Z","created_at":"2022-04-18T13:35:06.000000Z","id":2,"project":{"id":1,"user_id":1,"name":"Test Project","total_entries":2,"working_time_seconds":17,"is_stopped":false,"created_at":null,"updated_at":"2022-04-18T13:35:06.000000Z","entries":[{"id":1,"start":"2022-04-18 15:34:46","end":"2022-04-18 15:35:03","project_id":1,"created_at":"2022-04-18T13:34:46.000000Z","updated_at":"2022-04-18T13:35:03.000000Z"},{"id":2,"start":"2022-04-18 15:35:06","end":null,"project_id":1,"created_at":"2022-04-18T13:35:06.000000Z","updated_at":"2022-04-18T13:35:06.000000Z"}]}}  
+[2022-04-18 15:35:06] local.INFO: Project 1 started  
+[2022-04-18 15:35:06] local.INFO: here is send sms service  
+[2022-04-18 15:35:06] local.INFO: SMS Project 1 started  
+[2022-04-18 15:53:40] local.INFO: Project 1 stopped  
+[2022-04-18 15:53:40] local.INFO: here is send sms service  
+[2022-04-18 15:53:40] local.INFO: SMS Project 1 stopped  
+[2022-04-18 15:53:51] local.INFO: {"start":"2022-04-18T13:53:51.131700Z","project_id":1,"updated_at":"2022-04-18T13:53:51.000000Z","created_at":"2022-04-18T13:53:51.000000Z","id":3,"project":{"id":1,"user_id":1,"name":"Test Project","total_entries":3,"working_time_seconds":1131,"is_stopped":false,"created_at":null,"updated_at":"2022-04-18T13:53:51.000000Z","entries":[{"id":1,"start":"2022-04-18 15:34:46","end":"2022-04-18 15:35:03","project_id":1,"created_at":"2022-04-18T13:34:46.000000Z","updated_at":"2022-04-18T13:35:03.000000Z"},{"id":2,"start":"2022-04-18 15:35:06","end":"2022-04-18 15:53:39","project_id":1,"created_at":"2022-04-18T13:35:06.000000Z","updated_at":"2022-04-18T13:53:39.000000Z"},{"id":3,"start":"2022-04-18 15:53:51","end":null,"project_id":1,"created_at":"2022-04-18T13:53:51.000000Z","updated_at":"2022-04-18T13:53:51.000000Z"}]}}  
+[2022-04-18 15:53:51] local.INFO: Project 1 started  
+[2022-04-18 15:53:51] local.INFO: here is send sms service  
+[2022-04-18 15:53:51] local.INFO: SMS Project 1 started  
+[2022-04-21 11:53:07] local.INFO: {"start":"2022-04-21T09:53:07.555065Z","project_id":1,"updated_at":"2022-04-21T09:53:07.000000Z","created_at":"2022-04-21T09:53:07.000000Z","id":4,"project":{"id":1,"user_id":1,"name":"Test Project","total_entries":4,"working_time_seconds":1131,"is_stopped":false,"created_at":null,"updated_at":"2022-04-21T09:53:07.000000Z","entries":[{"id":1,"start":"2022-04-18 15:34:46","end":"2022-04-18 15:35:03","project_id":1,"created_at":"2022-04-18T13:34:46.000000Z","updated_at":"2022-04-18T13:35:03.000000Z"},{"id":2,"start":"2022-04-18 15:35:06","end":"2022-04-18 15:53:39","project_id":1,"created_at":"2022-04-18T13:35:06.000000Z","updated_at":"2022-04-18T13:53:39.000000Z"},{"id":3,"start":"2022-04-18 15:53:51","end":"2022-04-21 11:52:18","project_id":1,"created_at":"2022-04-18T13:53:51.000000Z","updated_at":"2022-04-21T09:52:18.000000Z"},{"id":4,"start":"2022-04-21 11:53:07","end":null,"project_id":1,"created_at":"2022-04-21T09:53:07.000000Z","updated_at":"2022-04-21T09:53:07.000000Z"}]}}  
+[2022-04-21 11:53:09] local.INFO: Project 1 started  
+[2022-04-21 11:53:09] local.INFO: here is send sms service  
+[2022-04-21 11:53:09] local.INFO: SMS Project 1 started  
+[2022-04-21 11:53:30] local.INFO: {"start":"2022-04-21T09:53:30.967925Z","project_id":1,"updated_at":"2022-04-21T09:53:30.000000Z","created_at":"2022-04-21T09:53:30.000000Z","id":5,"project":{"id":1,"user_id":1,"name":"Test Project","total_entries":5,"working_time_seconds":1131,"is_stopped":false,"created_at":null,"updated_at":"2022-04-21T09:53:30.000000Z","entries":[{"id":1,"start":"2022-04-18 15:34:46","end":"2022-04-18 15:35:03","project_id":1,"created_at":"2022-04-18T13:34:46.000000Z","updated_at":"2022-04-18T13:35:03.000000Z"},{"id":2,"start":"2022-04-18 15:35:06","end":"2022-04-18 15:53:39","project_id":1,"created_at":"2022-04-18T13:35:06.000000Z","updated_at":"2022-04-18T13:53:39.000000Z"},{"id":3,"start":"2022-04-18 15:53:51","end":"2022-04-21 11:52:18","project_id":1,"created_at":"2022-04-18T13:53:51.000000Z","updated_at":"2022-04-21T09:52:18.000000Z"},{"id":4,"start":"2022-04-21 11:53:07","end":"2022-04-21 11:53:12","project_id":1,"created_at":"2022-04-21T09:53:07.000000Z","updated_at":"2022-04-21T09:53:12.000000Z"},{"id":5,"start":"2022-04-21 11:53:30","end":null,"project_id":1,"created_at":"2022-04-21T09:53:30.000000Z","updated_at":"2022-04-21T09:53:30.000000Z"}]}}  
+[2022-04-21 11:53:31] local.INFO: Project 1 started  
+[2022-04-21 11:53:31] local.INFO: here is send sms service  
+[2022-04-21 11:53:31] local.INFO: SMS Project 1 started  
+[2022-04-21 11:54:37] local.INFO: {"start":"2022-04-21T09:54:37.654075Z","project_id":1,"updated_at":"2022-04-21T09:54:37.000000Z","created_at":"2022-04-21T09:54:37.000000Z","id":6,"project":{"id":1,"user_id":1,"name":"Test Project","total_entries":6,"working_time_seconds":1131,"is_stopped":false,"created_at":null,"updated_at":"2022-04-21T09:54:37.000000Z","entries":[{"id":1,"start":"2022-04-18 15:34:46","end":"2022-04-18 15:35:03","project_id":1,"created_at":"2022-04-18T13:34:46.000000Z","updated_at":"2022-04-18T13:35:03.000000Z"},{"id":2,"start":"2022-04-18 15:35:06","end":"2022-04-18 15:53:39","project_id":1,"created_at":"2022-04-18T13:35:06.000000Z","updated_at":"2022-04-18T13:53:39.000000Z"},{"id":3,"start":"2022-04-18 15:53:51","end":"2022-04-21 11:52:18","project_id":1,"created_at":"2022-04-18T13:53:51.000000Z","updated_at":"2022-04-21T09:52:18.000000Z"},{"id":4,"start":"2022-04-21 11:53:07","end":"2022-04-21 11:53:12","project_id":1,"created_at":"2022-04-21T09:53:07.000000Z","updated_at":"2022-04-21T09:53:12.000000Z"},{"id":5,"start":"2022-04-21 11:53:30","end":"2022-04-21 11:53:33","project_id":1,"created_at":"2022-04-21T09:53:30.000000Z","updated_at":"2022-04-21T09:53:33.000000Z"},{"id":6,"start":"2022-04-21 11:54:37","end":null,"project_id":1,"created_at":"2022-04-21T09:54:37.000000Z","updated_at":"2022-04-21T09:54:37.000000Z"}]}}  
+[2022-04-21 11:54:37] local.INFO: Project 1 started  
+[2022-04-21 11:54:37] local.INFO: here is send sms service  
+[2022-04-21 11:54:37] local.INFO: SMS Project 1 started  
+[2022-04-21 12:03:49] local.INFO: {"start":"2022-04-21T10:03:48.982768Z","project_id":1,"updated_at":"2022-04-21T10:03:48.000000Z","created_at":"2022-04-21T10:03:48.000000Z","id":7,"project":{"id":1,"user_id":1,"name":"Test Project","total_entries":7,"working_time_seconds":1131,"is_stopped":false,"created_at":null,"updated_at":"2022-04-21T10:03:48.000000Z","entries":[{"id":1,"start":"2022-04-18 15:34:46","end":"2022-04-18 15:35:03","project_id":1,"created_at":"2022-04-18T13:34:46.000000Z","updated_at":"2022-04-18T13:35:03.000000Z"},{"id":2,"start":"2022-04-18 15:35:06","end":"2022-04-18 15:53:39","project_id":1,"created_at":"2022-04-18T13:35:06.000000Z","updated_at":"2022-04-18T13:53:39.000000Z"},{"id":3,"start":"2022-04-18 15:53:51","end":"2022-04-21 11:52:18","project_id":1,"created_at":"2022-04-18T13:53:51.000000Z","updated_at":"2022-04-21T09:52:18.000000Z"},{"id":4,"start":"2022-04-21 11:53:07","end":"2022-04-21 11:53:12","project_id":1,"created_at":"2022-04-21T09:53:07.000000Z","updated_at":"2022-04-21T09:53:12.000000Z"},{"id":5,"start":"2022-04-21 11:53:30","end":"2022-04-21 11:53:33","project_id":1,"created_at":"2022-04-21T09:53:30.000000Z","updated_at":"2022-04-21T09:53:33.000000Z"},{"id":6,"start":"2022-04-21 11:54:37","end":"2022-04-21 11:54:41","project_id":1,"created_at":"2022-04-21T09:54:37.000000Z","updated_at":"2022-04-21T09:54:41.000000Z"},{"id":7,"start":"2022-04-21 12:03:48","end":null,"project_id":1,"created_at":"2022-04-21T10:03:48.000000Z","updated_at":"2022-04-21T10:03:48.000000Z"}]}}  
+[2022-04-21 12:03:49] local.INFO: Project 1 started  
+[2022-04-21 12:03:49] local.INFO: here is send sms service  
+[2022-04-21 12:03:49] local.INFO: SMS Project 1 started  
+[2022-04-21 12:03:52] local.INFO: Project 1 stopped  
+[2022-04-21 12:03:52] local.INFO: here is send sms service  
+[2022-04-21 12:03:52] local.INFO: SMS Project 1 stopped  
+[2022-04-21 12:04:30] local.INFO: {"start":"2022-04-21T10:04:30.068911Z","project_id":1,"updated_at":"2022-04-21T10:04:30.000000Z","created_at":"2022-04-21T10:04:30.000000Z","id":1,"project":{"id":1,"user_id":1,"name":"Test Project","total_entries":1,"working_time_seconds":0,"is_stopped":false,"created_at":null,"updated_at":"2022-04-21T10:04:30.000000Z","entries":[{"id":1,"start":"2022-04-21 12:04:30","end":null,"project_id":1,"created_at":"2022-04-21T10:04:30.000000Z","updated_at":"2022-04-21T10:04:30.000000Z"}]}}  
+[2022-04-21 12:04:30] local.INFO: Project 1 started  
+[2022-04-21 12:04:30] local.INFO: here is send sms service  
+[2022-04-21 12:04:30] local.INFO: SMS Project 1 started  
+[2022-04-21 12:05:17] local.INFO: Project 1 stopped  
+[2022-04-21 12:05:17] local.INFO: here is send sms service  
+[2022-04-21 12:05:17] local.INFO: SMS Project 1 stopped  
+[2022-04-21 12:05:20] local.INFO: {"start":"2022-04-21T10:05:20.044980Z","project_id":1,"updated_at":"2022-04-21T10:05:20.000000Z","created_at":"2022-04-21T10:05:20.000000Z","id":2,"project":{"id":1,"user_id":1,"name":"Test Project","total_entries":2,"working_time_seconds":47,"is_stopped":false,"created_at":null,"updated_at":"2022-04-21T10:05:20.000000Z","entries":[{"id":1,"start":"2022-04-21 12:04:30","end":"2022-04-21 12:05:17","project_id":1,"created_at":"2022-04-21T10:04:30.000000Z","updated_at":"2022-04-21T10:05:17.000000Z"},{"id":2,"start":"2022-04-21 12:05:20","end":null,"project_id":1,"created_at":"2022-04-21T10:05:20.000000Z","updated_at":"2022-04-21T10:05:20.000000Z"}]}}  
+[2022-04-21 12:05:20] local.INFO: Project 1 started  
+[2022-04-21 12:05:20] local.INFO: here is send sms service  
+[2022-04-21 12:05:20] local.INFO: SMS Project 1 started  
+[2022-04-21 12:05:44] local.INFO: Project 1 stopped  
+[2022-04-21 12:05:44] local.INFO: here is send sms service  
+[2022-04-21 12:05:44] local.INFO: SMS Project 1 stopped  
+[2022-04-21 12:05:55] local.INFO: {"start":"2022-04-21T10:05:55.475696Z","project_id":1,"updated_at":"2022-04-21T10:05:55.000000Z","created_at":"2022-04-21T10:05:55.000000Z","id":3,"project":{"id":1,"user_id":1,"name":"Test Project","total_entries":3,"working_time_seconds":71,"is_stopped":false,"created_at":null,"updated_at":"2022-04-21T10:05:55.000000Z","entries":[{"id":1,"start":"2022-04-21 12:04:30","end":"2022-04-21 12:05:17","project_id":1,"created_at":"2022-04-21T10:04:30.000000Z","updated_at":"2022-04-21T10:05:17.000000Z"},{"id":2,"start":"2022-04-21 12:05:20","end":"2022-04-21 12:05:44","project_id":1,"created_at":"2022-04-21T10:05:20.000000Z","updated_at":"2022-04-21T10:05:44.000000Z"},{"id":3,"start":"2022-04-21 12:05:55","end":null,"project_id":1,"created_at":"2022-04-21T10:05:55.000000Z","updated_at":"2022-04-21T10:05:55.000000Z"}]}}  
+[2022-04-21 12:05:55] local.INFO: Project 1 started  
+[2022-04-21 12:05:55] local.INFO: here is send sms service  
+[2022-04-21 12:05:55] local.INFO: SMS Project 1 started  
+[2022-04-21 12:06:05] local.INFO: Project 1 stopped  
+[2022-04-21 12:06:05] local.INFO: here is send sms service  
+[2022-04-21 12:06:05] local.INFO: SMS Project 1 stopped  
+[2022-04-21 12:06:13] local.INFO: {"start":"2022-04-21T10:06:13.115009Z","project_id":1,"updated_at":"2022-04-21T10:06:13.000000Z","created_at":"2022-04-21T10:06:13.000000Z","id":4,"project":{"id":1,"user_id":1,"name":"Test Project","total_entries":4,"working_time_seconds":81,"is_stopped":false,"created_at":null,"updated_at":"2022-04-21T10:06:13.000000Z","entries":[{"id":1,"start":"2022-04-21 12:04:30","end":"2022-04-21 12:05:17","project_id":1,"created_at":"2022-04-21T10:04:30.000000Z","updated_at":"2022-04-21T10:05:17.000000Z"},{"id":2,"start":"2022-04-21 12:05:20","end":"2022-04-21 12:05:44","project_id":1,"created_at":"2022-04-21T10:05:20.000000Z","updated_at":"2022-04-21T10:05:44.000000Z"},{"id":3,"start":"2022-04-21 12:05:55","end":"2022-04-21 12:06:05","project_id":1,"created_at":"2022-04-21T10:05:55.000000Z","updated_at":"2022-04-21T10:06:05.000000Z"},{"id":4,"start":"2022-04-21 12:06:13","end":null,"project_id":1,"created_at":"2022-04-21T10:06:13.000000Z","updated_at":"2022-04-21T10:06:13.000000Z"}]}}  
+[2022-04-21 12:06:13] local.INFO: Project 1 started  
+[2022-04-21 12:06:13] local.INFO: here is send sms service  
+[2022-04-21 12:06:13] local.INFO: SMS Project 1 started  
+[2022-04-21 12:06:35] local.INFO: Project 1 stopped  
+[2022-04-21 12:06:35] local.INFO: here is send sms service  
+[2022-04-21 12:06:35] local.INFO: SMS Project 1 stopped  
+[2022-04-21 12:07:32] local.INFO: {"start":"2022-04-21T10:07:32.146823Z","project_id":1,"updated_at":"2022-04-21T10:07:32.000000Z","created_at":"2022-04-21T10:07:32.000000Z","id":5,"project":{"id":1,"user_id":1,"name":"Test Project","total_entries":5,"working_time_seconds":103,"is_stopped":false,"created_at":null,"updated_at":"2022-04-21T10:07:32.000000Z","entries":[{"id":1,"start":"2022-04-21 12:04:30","end":"2022-04-21 12:05:17","project_id":1,"created_at":"2022-04-21T10:04:30.000000Z","updated_at":"2022-04-21T10:05:17.000000Z"},{"id":2,"start":"2022-04-21 12:05:20","end":"2022-04-21 12:05:44","project_id":1,"created_at":"2022-04-21T10:05:20.000000Z","updated_at":"2022-04-21T10:05:44.000000Z"},{"id":3,"start":"2022-04-21 12:05:55","end":"2022-04-21 12:06:05","project_id":1,"created_at":"2022-04-21T10:05:55.000000Z","updated_at":"2022-04-21T10:06:05.000000Z"},{"id":4,"start":"2022-04-21 12:06:13","end":"2022-04-21 12:06:35","project_id":1,"created_at":"2022-04-21T10:06:13.000000Z","updated_at":"2022-04-21T10:06:35.000000Z"},{"id":5,"start":"2022-04-21 12:07:32","end":null,"project_id":1,"created_at":"2022-04-21T10:07:32.000000Z","updated_at":"2022-04-21T10:07:32.000000Z"}]}}  
+[2022-04-21 12:07:32] local.INFO: Project 1 started  
+[2022-04-21 12:07:32] local.INFO: here is send sms service  
+[2022-04-21 12:07:32] local.INFO: SMS Project 1 started  
+[2022-04-21 12:07:42] local.INFO: Project 1 stopped  
+[2022-04-21 12:07:42] local.INFO: here is send sms service  
+[2022-04-21 12:07:42] local.INFO: SMS Project 1 stopped  
+[2022-04-21 12:07:54] local.INFO: {"start":"2022-04-21T10:07:54.669459Z","project_id":1,"updated_at":"2022-04-21T10:07:54.000000Z","created_at":"2022-04-21T10:07:54.000000Z","id":6,"project":{"id":1,"user_id":1,"name":"Test Project","total_entries":6,"working_time_seconds":113,"is_stopped":false,"created_at":null,"updated_at":"2022-04-21T10:07:54.000000Z","entries":[{"id":1,"start":"2022-04-21 12:04:30","end":"2022-04-21 12:05:17","project_id":1,"created_at":"2022-04-21T10:04:30.000000Z","updated_at":"2022-04-21T10:05:17.000000Z"},{"id":2,"start":"2022-04-21 12:05:20","end":"2022-04-21 12:05:44","project_id":1,"created_at":"2022-04-21T10:05:20.000000Z","updated_at":"2022-04-21T10:05:44.000000Z"},{"id":3,"start":"2022-04-21 12:05:55","end":"2022-04-21 12:06:05","project_id":1,"created_at":"2022-04-21T10:05:55.000000Z","updated_at":"2022-04-21T10:06:05.000000Z"},{"id":4,"start":"2022-04-21 12:06:13","end":"2022-04-21 12:06:35","project_id":1,"created_at":"2022-04-21T10:06:13.000000Z","updated_at":"2022-04-21T10:06:35.000000Z"},{"id":5,"start":"2022-04-21 12:07:32","end":"2022-04-21 12:07:42","project_id":1,"created_at":"2022-04-21T10:07:32.000000Z","updated_at":"2022-04-21T10:07:42.000000Z"},{"id":6,"start":"2022-04-21 12:07:54","end":null,"project_id":1,"created_at":"2022-04-21T10:07:54.000000Z","updated_at":"2022-04-21T10:07:54.000000Z"}]}}  
+[2022-04-21 12:07:54] local.INFO: Project 1 started  
+[2022-04-21 12:07:54] local.INFO: here is send sms service  
+[2022-04-21 12:07:54] local.INFO: SMS Project 1 started  
+[2022-04-21 12:08:04] local.INFO: Project 1 stopped  
+[2022-04-21 12:08:04] local.INFO: here is send sms service  
+[2022-04-21 12:08:04] local.INFO: SMS Project 1 stopped  
+[2022-04-21 12:08:21] local.INFO: {"start":"2022-04-21T10:08:21.482345Z","project_id":1,"updated_at":"2022-04-21T10:08:21.000000Z","created_at":"2022-04-21T10:08:21.000000Z","id":7,"project":{"id":1,"user_id":1,"name":"Test Project","total_entries":7,"working_time_seconds":123,"is_stopped":false,"created_at":null,"updated_at":"2022-04-21T10:08:21.000000Z","entries":[{"id":1,"start":"2022-04-21 12:04:30","end":"2022-04-21 12:05:17","project_id":1,"created_at":"2022-04-21T10:04:30.000000Z","updated_at":"2022-04-21T10:05:17.000000Z"},{"id":2,"start":"2022-04-21 12:05:20","end":"2022-04-21 12:05:44","project_id":1,"created_at":"2022-04-21T10:05:20.000000Z","updated_at":"2022-04-21T10:05:44.000000Z"},{"id":3,"start":"2022-04-21 12:05:55","end":"2022-04-21 12:06:05","project_id":1,"created_at":"2022-04-21T10:05:55.000000Z","updated_at":"2022-04-21T10:06:05.000000Z"},{"id":4,"start":"2022-04-21 12:06:13","end":"2022-04-21 12:06:35","project_id":1,"created_at":"2022-04-21T10:06:13.000000Z","updated_at":"2022-04-21T10:06:35.000000Z"},{"id":5,"start":"2022-04-21 12:07:32","end":"2022-04-21 12:07:42","project_id":1,"created_at":"2022-04-21T10:07:32.000000Z","updated_at":"2022-04-21T10:07:42.000000Z"},{"id":6,"start":"2022-04-21 12:07:54","end":"2022-04-21 12:08:04","project_id":1,"created_at":"2022-04-21T10:07:54.000000Z","updated_at":"2022-04-21T10:08:04.000000Z"},{"id":7,"start":"2022-04-21 12:08:21","end":null,"project_id":1,"created_at":"2022-04-21T10:08:21.000000Z","updated_at":"2022-04-21T10:08:21.000000Z"}]}}  
+[2022-04-21 12:08:21] local.INFO: Project 1 started  
+[2022-04-21 12:08:21] local.INFO: here is send sms service  
+[2022-04-21 12:08:21] local.INFO: SMS Project 1 started  
+[2022-04-21 12:08:31] local.INFO: Project 1 stopped  
+[2022-04-21 12:08:31] local.INFO: here is send sms service  
+[2022-04-21 12:08:31] local.INFO: SMS Project 1 stopped  
+[2022-04-21 12:15:51] testing.INFO: {"start":"2022-04-21T10:15:51.218113Z","project_id":1,"updated_at":"2022-04-21T10:15:51.000000Z","created_at":"2022-04-21T10:15:51.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Torphy Group","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-21T10:15:51.000000Z","updated_at":"2022-04-21T10:15:51.000000Z","entries":[{"id":1,"start":"2022-04-21 12:15:51","end":null,"project_id":"1","created_at":"2022-04-21T10:15:51.000000Z","updated_at":"2022-04-21T10:15:51.000000Z"}]}}  
+[2022-04-21 12:15:51] testing.INFO: Project 1 started  
+[2022-04-21 12:15:51] testing.INFO: here is send sms service  
+[2022-04-21 12:15:51] testing.INFO: SMS Project 1 started  
+[2022-04-21 12:15:51] testing.INFO: {"start":"2022-04-21T10:15:51.452271Z","project_id":1,"updated_at":"2022-04-21T10:15:51.000000Z","created_at":"2022-04-21T10:15:51.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Veum Group","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-21T10:15:51.000000Z","updated_at":"2022-04-21T10:15:51.000000Z","entries":[{"id":1,"start":"2022-04-21 12:15:51","end":null,"project_id":"1","created_at":"2022-04-21T10:15:51.000000Z","updated_at":"2022-04-21T10:15:51.000000Z"}]}}  
+[2022-04-21 12:15:51] testing.INFO: Project 1 started  
+[2022-04-21 12:15:51] testing.INFO: here is send sms service  
+[2022-04-21 12:15:51] testing.INFO: SMS Project 1 started  
+[2022-04-21 12:15:51] testing.INFO: {"start":"2022-04-21T10:15:51.511807Z","project_id":1,"updated_at":"2022-04-21T10:15:51.000000Z","created_at":"2022-04-21T10:15:51.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Larkin, Johnston and Wolff","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-21T10:15:51.000000Z","updated_at":"2022-04-21T10:15:51.000000Z","entries":[{"id":1,"start":"2022-04-21 12:15:51","end":null,"project_id":"1","created_at":"2022-04-21T10:15:51.000000Z","updated_at":"2022-04-21T10:15:51.000000Z"}]}}  
+[2022-04-21 12:15:51] testing.INFO: Project 1 started  
+[2022-04-21 12:15:51] testing.INFO: here is send sms service  
+[2022-04-21 12:15:51] testing.INFO: SMS Project 1 started  
+[2022-04-21 12:15:51] testing.INFO: Project 1 stopped  
+[2022-04-21 12:15:51] testing.INFO: here is send sms service  
+[2022-04-21 12:15:51] testing.INFO: SMS Project 1 stopped  
+[2022-04-21 12:15:51] testing.INFO: {"start":"2022-04-21T10:15:51.572745Z","project_id":1,"updated_at":"2022-04-21T10:15:51.000000Z","created_at":"2022-04-21T10:15:51.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Block-Gutkowski","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-21T10:15:51.000000Z","updated_at":"2022-04-21T10:15:51.000000Z","entries":[{"id":1,"start":"2022-04-21 12:15:51","end":null,"project_id":"1","created_at":"2022-04-21T10:15:51.000000Z","updated_at":"2022-04-21T10:15:51.000000Z"}]}}  
+[2022-04-21 12:15:51] testing.INFO: Project 1 started  
+[2022-04-21 12:15:51] testing.INFO: here is send sms service  
+[2022-04-21 12:15:51] testing.INFO: SMS Project 1 started  
+[2022-04-21 12:15:51] testing.INFO: Project 1 stopped  
+[2022-04-21 12:15:51] testing.INFO: here is send sms service  
+[2022-04-21 12:15:51] testing.INFO: SMS Project 1 stopped  
+[2022-04-21 12:15:51] testing.INFO: {"start":"2022-04-21T10:15:51.585587Z","project_id":2,"updated_at":"2022-04-21T10:15:51.000000Z","created_at":"2022-04-21T10:15:51.000000Z","id":2,"project":{"id":2,"user_id":"1","name":"Terry and Sons","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-21T10:15:51.000000Z","updated_at":"2022-04-21T10:15:51.000000Z","entries":[{"id":2,"start":"2022-04-21 12:15:51","end":null,"project_id":"2","created_at":"2022-04-21T10:15:51.000000Z","updated_at":"2022-04-21T10:15:51.000000Z"}]}}  
+[2022-04-21 12:15:51] testing.INFO: Project 2 started  
+[2022-04-21 12:15:51] testing.INFO: here is send sms service  
+[2022-04-21 12:15:51] testing.INFO: SMS Project 2 started  
+[2022-04-21 12:15:51] testing.INFO: {"start":"2022-04-21T10:15:51.638402Z","project_id":1,"updated_at":"2022-04-21T10:15:51.000000Z","created_at":"2022-04-21T10:15:51.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Fadel Inc","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-21T10:15:51.000000Z","updated_at":"2022-04-21T10:15:51.000000Z","entries":[{"id":1,"start":"2022-04-21 12:15:51","end":null,"project_id":"1","created_at":"2022-04-21T10:15:51.000000Z","updated_at":"2022-04-21T10:15:51.000000Z"}]}}  
+[2022-04-21 12:15:51] testing.INFO: Project 1 started  
+[2022-04-21 12:15:51] testing.INFO: here is send sms service  
+[2022-04-21 12:15:51] testing.INFO: SMS Project 1 started  
+[2022-04-21 12:16:08] testing.INFO: {"start":"2022-04-21T10:16:08.523089Z","project_id":1,"updated_at":"2022-04-21T10:16:08.000000Z","created_at":"2022-04-21T10:16:08.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Mayert, Cassin and Nienow","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-21T10:16:08.000000Z","updated_at":"2022-04-21T10:16:08.000000Z","entries":[{"id":1,"start":"2022-04-21 12:16:08","end":null,"project_id":"1","created_at":"2022-04-21T10:16:08.000000Z","updated_at":"2022-04-21T10:16:08.000000Z"}]}}  
+[2022-04-21 12:16:08] testing.INFO: Project 1 started  
+[2022-04-21 12:16:08] testing.INFO: here is send sms service  
+[2022-04-21 12:16:08] testing.INFO: SMS Project 1 started  
+[2022-04-21 12:16:08] testing.INFO: {"start":"2022-04-21T10:16:08.733622Z","project_id":1,"updated_at":"2022-04-21T10:16:08.000000Z","created_at":"2022-04-21T10:16:08.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Herman-Jones","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-21T10:16:08.000000Z","updated_at":"2022-04-21T10:16:08.000000Z","entries":[{"id":1,"start":"2022-04-21 12:16:08","end":null,"project_id":"1","created_at":"2022-04-21T10:16:08.000000Z","updated_at":"2022-04-21T10:16:08.000000Z"}]}}  
+[2022-04-21 12:16:08] testing.INFO: Project 1 started  
+[2022-04-21 12:16:08] testing.INFO: here is send sms service  
+[2022-04-21 12:16:08] testing.INFO: SMS Project 1 started  
+[2022-04-21 12:16:08] testing.INFO: {"start":"2022-04-21T10:16:08.778943Z","project_id":1,"updated_at":"2022-04-21T10:16:08.000000Z","created_at":"2022-04-21T10:16:08.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Weissnat-Parker","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-21T10:16:08.000000Z","updated_at":"2022-04-21T10:16:08.000000Z","entries":[{"id":1,"start":"2022-04-21 12:16:08","end":null,"project_id":"1","created_at":"2022-04-21T10:16:08.000000Z","updated_at":"2022-04-21T10:16:08.000000Z"}]}}  
+[2022-04-21 12:16:08] testing.INFO: Project 1 started  
+[2022-04-21 12:16:08] testing.INFO: here is send sms service  
+[2022-04-21 12:16:08] testing.INFO: SMS Project 1 started  
+[2022-04-21 12:16:08] testing.INFO: Project 1 stopped  
+[2022-04-21 12:16:08] testing.INFO: here is send sms service  
+[2022-04-21 12:16:08] testing.INFO: SMS Project 1 stopped  
+[2022-04-21 12:16:08] testing.INFO: {"start":"2022-04-21T10:16:08.825729Z","project_id":1,"updated_at":"2022-04-21T10:16:08.000000Z","created_at":"2022-04-21T10:16:08.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Will PLC","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-21T10:16:08.000000Z","updated_at":"2022-04-21T10:16:08.000000Z","entries":[{"id":1,"start":"2022-04-21 12:16:08","end":null,"project_id":"1","created_at":"2022-04-21T10:16:08.000000Z","updated_at":"2022-04-21T10:16:08.000000Z"}]}}  
+[2022-04-21 12:16:08] testing.INFO: Project 1 started  
+[2022-04-21 12:16:08] testing.INFO: here is send sms service  
+[2022-04-21 12:16:08] testing.INFO: SMS Project 1 started  
+[2022-04-21 12:16:08] testing.INFO: Project 1 stopped  
+[2022-04-21 12:16:08] testing.INFO: here is send sms service  
+[2022-04-21 12:16:08] testing.INFO: SMS Project 1 stopped  
+[2022-04-21 12:16:08] testing.INFO: {"start":"2022-04-21T10:16:08.834354Z","project_id":2,"updated_at":"2022-04-21T10:16:08.000000Z","created_at":"2022-04-21T10:16:08.000000Z","id":2,"project":{"id":2,"user_id":"1","name":"Nienow, Schneider and Ondricka","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-21T10:16:08.000000Z","updated_at":"2022-04-21T10:16:08.000000Z","entries":[{"id":2,"start":"2022-04-21 12:16:08","end":null,"project_id":"2","created_at":"2022-04-21T10:16:08.000000Z","updated_at":"2022-04-21T10:16:08.000000Z"}]}}  
+[2022-04-21 12:16:08] testing.INFO: Project 2 started  
+[2022-04-21 12:16:08] testing.INFO: here is send sms service  
+[2022-04-21 12:16:08] testing.INFO: SMS Project 2 started  
+[2022-04-21 12:16:08] testing.INFO: {"start":"2022-04-21T10:16:08.878746Z","project_id":1,"updated_at":"2022-04-21T10:16:08.000000Z","created_at":"2022-04-21T10:16:08.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Hickle Group","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-21T10:16:08.000000Z","updated_at":"2022-04-21T10:16:08.000000Z","entries":[{"id":1,"start":"2022-04-21 12:16:08","end":null,"project_id":"1","created_at":"2022-04-21T10:16:08.000000Z","updated_at":"2022-04-21T10:16:08.000000Z"}]}}  
+[2022-04-21 12:16:08] testing.INFO: Project 1 started  
+[2022-04-21 12:16:08] testing.INFO: here is send sms service  
+[2022-04-21 12:16:08] testing.INFO: SMS Project 1 started  
+[2022-04-21 12:16:34] testing.INFO: {"start":"2022-04-21T10:16:34.071792Z","project_id":1,"updated_at":"2022-04-21T10:16:34.000000Z","created_at":"2022-04-21T10:16:34.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Hickle-Volkman","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-21T10:16:34.000000Z","updated_at":"2022-04-21T10:16:34.000000Z","entries":[{"id":1,"start":"2022-04-21 12:16:34","end":null,"project_id":"1","created_at":"2022-04-21T10:16:34.000000Z","updated_at":"2022-04-21T10:16:34.000000Z"}]}}  
+[2022-04-21 12:16:34] testing.INFO: Project 1 started  
+[2022-04-21 12:16:34] testing.INFO: here is send sms service  
+[2022-04-21 12:16:34] testing.INFO: SMS Project 1 started  
+[2022-04-21 12:16:34] testing.INFO: {"start":"2022-04-21T10:16:34.263968Z","project_id":1,"updated_at":"2022-04-21T10:16:34.000000Z","created_at":"2022-04-21T10:16:34.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Auer, Funk and Reilly","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-21T10:16:34.000000Z","updated_at":"2022-04-21T10:16:34.000000Z","entries":[{"id":1,"start":"2022-04-21 12:16:34","end":null,"project_id":"1","created_at":"2022-04-21T10:16:34.000000Z","updated_at":"2022-04-21T10:16:34.000000Z"}]}}  
+[2022-04-21 12:16:34] testing.INFO: Project 1 started  
+[2022-04-21 12:16:34] testing.INFO: here is send sms service  
+[2022-04-21 12:16:34] testing.INFO: SMS Project 1 started  
+[2022-04-21 12:16:34] testing.INFO: {"start":"2022-04-21T10:16:34.335797Z","project_id":1,"updated_at":"2022-04-21T10:16:34.000000Z","created_at":"2022-04-21T10:16:34.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Rohan PLC","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-21T10:16:34.000000Z","updated_at":"2022-04-21T10:16:34.000000Z","entries":[{"id":1,"start":"2022-04-21 12:16:34","end":null,"project_id":"1","created_at":"2022-04-21T10:16:34.000000Z","updated_at":"2022-04-21T10:16:34.000000Z"}]}}  
+[2022-04-21 12:16:34] testing.INFO: Project 1 started  
+[2022-04-21 12:16:34] testing.INFO: here is send sms service  
+[2022-04-21 12:16:34] testing.INFO: SMS Project 1 started  
+[2022-04-21 12:16:34] testing.INFO: Project 1 stopped  
+[2022-04-21 12:16:34] testing.INFO: here is send sms service  
+[2022-04-21 12:16:34] testing.INFO: SMS Project 1 stopped  
+[2022-04-21 12:16:34] testing.INFO: {"start":"2022-04-21T10:16:34.407929Z","project_id":1,"updated_at":"2022-04-21T10:16:34.000000Z","created_at":"2022-04-21T10:16:34.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Jones, Abshire and Gerhold","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-21T10:16:34.000000Z","updated_at":"2022-04-21T10:16:34.000000Z","entries":[{"id":1,"start":"2022-04-21 12:16:34","end":null,"project_id":"1","created_at":"2022-04-21T10:16:34.000000Z","updated_at":"2022-04-21T10:16:34.000000Z"}]}}  
+[2022-04-21 12:16:34] testing.INFO: Project 1 started  
+[2022-04-21 12:16:34] testing.INFO: here is send sms service  
+[2022-04-21 12:16:34] testing.INFO: SMS Project 1 started  
+[2022-04-21 12:16:34] testing.INFO: Project 1 stopped  
+[2022-04-21 12:16:34] testing.INFO: here is send sms service  
+[2022-04-21 12:16:34] testing.INFO: SMS Project 1 stopped  
+[2022-04-21 12:16:34] testing.INFO: {"start":"2022-04-21T10:16:34.423377Z","project_id":2,"updated_at":"2022-04-21T10:16:34.000000Z","created_at":"2022-04-21T10:16:34.000000Z","id":2,"project":{"id":2,"user_id":"1","name":"Boehm Ltd","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-21T10:16:34.000000Z","updated_at":"2022-04-21T10:16:34.000000Z","entries":[{"id":2,"start":"2022-04-21 12:16:34","end":null,"project_id":"2","created_at":"2022-04-21T10:16:34.000000Z","updated_at":"2022-04-21T10:16:34.000000Z"}]}}  
+[2022-04-21 12:16:34] testing.INFO: Project 2 started  
+[2022-04-21 12:16:34] testing.INFO: here is send sms service  
+[2022-04-21 12:16:34] testing.INFO: SMS Project 2 started  
+[2022-04-21 12:16:34] testing.INFO: {"start":"2022-04-21T10:16:34.490668Z","project_id":1,"updated_at":"2022-04-21T10:16:34.000000Z","created_at":"2022-04-21T10:16:34.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Shields-Grimes","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-21T10:16:34.000000Z","updated_at":"2022-04-21T10:16:34.000000Z","entries":[{"id":1,"start":"2022-04-21 12:16:34","end":null,"project_id":"1","created_at":"2022-04-21T10:16:34.000000Z","updated_at":"2022-04-21T10:16:34.000000Z"}]}}  
+[2022-04-21 12:16:34] testing.INFO: Project 1 started  
+[2022-04-21 12:16:34] testing.INFO: here is send sms service  
+[2022-04-21 12:16:34] testing.INFO: SMS Project 1 started  
+[2022-04-21 12:19:57] local.ERROR: syntax error, unexpected 'p' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): syntax error, unexpected 'p' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) at C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\app\\Project.php:12)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-21 12:20:09] testing.INFO: {"start":"2022-04-21T10:20:09.643411Z","project_id":1,"updated_at":"2022-04-21T10:20:09.000000Z","created_at":"2022-04-21T10:20:09.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Robel, Berge and Sporer","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-21T10:20:09.000000Z","updated_at":"2022-04-21T10:20:09.000000Z","entries":[{"id":1,"start":"2022-04-21 12:20:09","end":null,"project_id":"1","created_at":"2022-04-21T10:20:09.000000Z","updated_at":"2022-04-21T10:20:09.000000Z"}]}}  
+[2022-04-21 12:20:09] testing.INFO: Project 1 started  
+[2022-04-21 12:20:09] testing.INFO: here is send sms service  
+[2022-04-21 12:20:09] testing.INFO: SMS Project 1 started  
+[2022-04-21 12:20:09] testing.INFO: {"start":"2022-04-21T10:20:09.847993Z","project_id":1,"updated_at":"2022-04-21T10:20:09.000000Z","created_at":"2022-04-21T10:20:09.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Maggio Inc","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-21T10:20:09.000000Z","updated_at":"2022-04-21T10:20:09.000000Z","entries":[{"id":1,"start":"2022-04-21 12:20:09","end":null,"project_id":"1","created_at":"2022-04-21T10:20:09.000000Z","updated_at":"2022-04-21T10:20:09.000000Z"}]}}  
+[2022-04-21 12:20:09] testing.INFO: Project 1 started  
+[2022-04-21 12:20:09] testing.INFO: here is send sms service  
+[2022-04-21 12:20:09] testing.INFO: SMS Project 1 started  
+[2022-04-21 12:20:09] testing.INFO: {"start":"2022-04-21T10:20:09.892589Z","project_id":1,"updated_at":"2022-04-21T10:20:09.000000Z","created_at":"2022-04-21T10:20:09.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Aufderhar and Sons","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-21T10:20:09.000000Z","updated_at":"2022-04-21T10:20:09.000000Z","entries":[{"id":1,"start":"2022-04-21 12:20:09","end":null,"project_id":"1","created_at":"2022-04-21T10:20:09.000000Z","updated_at":"2022-04-21T10:20:09.000000Z"}]}}  
+[2022-04-21 12:20:09] testing.INFO: Project 1 started  
+[2022-04-21 12:20:09] testing.INFO: here is send sms service  
+[2022-04-21 12:20:09] testing.INFO: SMS Project 1 started  
+[2022-04-21 12:20:09] testing.INFO: Project 1 stopped  
+[2022-04-21 12:20:09] testing.INFO: here is send sms service  
+[2022-04-21 12:20:09] testing.INFO: SMS Project 1 stopped  
+[2022-04-21 12:20:09] testing.INFO: {"start":"2022-04-21T10:20:09.941921Z","project_id":1,"updated_at":"2022-04-21T10:20:09.000000Z","created_at":"2022-04-21T10:20:09.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Connelly, Johnson and Pouros","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-21T10:20:09.000000Z","updated_at":"2022-04-21T10:20:09.000000Z","entries":[{"id":1,"start":"2022-04-21 12:20:09","end":null,"project_id":"1","created_at":"2022-04-21T10:20:09.000000Z","updated_at":"2022-04-21T10:20:09.000000Z"}]}}  
+[2022-04-21 12:20:09] testing.INFO: Project 1 started  
+[2022-04-21 12:20:09] testing.INFO: here is send sms service  
+[2022-04-21 12:20:09] testing.INFO: SMS Project 1 started  
+[2022-04-21 12:20:09] testing.INFO: Project 1 stopped  
+[2022-04-21 12:20:09] testing.INFO: here is send sms service  
+[2022-04-21 12:20:09] testing.INFO: SMS Project 1 stopped  
+[2022-04-21 12:20:09] testing.INFO: {"start":"2022-04-21T10:20:09.949611Z","project_id":2,"updated_at":"2022-04-21T10:20:09.000000Z","created_at":"2022-04-21T10:20:09.000000Z","id":2,"project":{"id":2,"user_id":"1","name":"Runolfsson, Lang and Schimmel","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-21T10:20:09.000000Z","updated_at":"2022-04-21T10:20:09.000000Z","entries":[{"id":2,"start":"2022-04-21 12:20:09","end":null,"project_id":"2","created_at":"2022-04-21T10:20:09.000000Z","updated_at":"2022-04-21T10:20:09.000000Z"}]}}  
+[2022-04-21 12:20:09] testing.INFO: Project 2 started  
+[2022-04-21 12:20:09] testing.INFO: here is send sms service  
+[2022-04-21 12:20:09] testing.INFO: SMS Project 2 started  
+[2022-04-21 12:20:09] testing.INFO: {"start":"2022-04-21T10:20:09.993381Z","project_id":1,"updated_at":"2022-04-21T10:20:09.000000Z","created_at":"2022-04-21T10:20:09.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Schulist and Sons","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-21T10:20:09.000000Z","updated_at":"2022-04-21T10:20:09.000000Z","entries":[{"id":1,"start":"2022-04-21 12:20:09","end":null,"project_id":"1","created_at":"2022-04-21T10:20:09.000000Z","updated_at":"2022-04-21T10:20:09.000000Z"}]}}  
+[2022-04-21 12:20:09] testing.INFO: Project 1 started  
+[2022-04-21 12:20:09] testing.INFO: here is send sms service  
+[2022-04-21 12:20:09] testing.INFO: SMS Project 1 started  
+[2022-04-21 12:22:01] local.INFO: {"start":"2022-04-21T10:22:01.968504Z","project_id":1,"updated_at":"2022-04-21T10:22:01.000000Z","created_at":"2022-04-21T10:22:01.000000Z","id":8,"project":{"id":1,"user_id":1,"name":"Test Project","total_entries":8,"working_time_seconds":133,"is_stopped":false,"created_at":null,"updated_at":"2022-04-21T10:22:01.000000Z","entries":[{"id":1,"start":"2022-04-21 12:04:30","end":"2022-04-21 12:05:17","project_id":1,"created_at":"2022-04-21T10:04:30.000000Z","updated_at":"2022-04-21T10:05:17.000000Z"},{"id":2,"start":"2022-04-21 12:05:20","end":"2022-04-21 12:05:44","project_id":1,"created_at":"2022-04-21T10:05:20.000000Z","updated_at":"2022-04-21T10:05:44.000000Z"},{"id":3,"start":"2022-04-21 12:05:55","end":"2022-04-21 12:06:05","project_id":1,"created_at":"2022-04-21T10:05:55.000000Z","updated_at":"2022-04-21T10:06:05.000000Z"},{"id":4,"start":"2022-04-21 12:06:13","end":"2022-04-21 12:06:35","project_id":1,"created_at":"2022-04-21T10:06:13.000000Z","updated_at":"2022-04-21T10:06:35.000000Z"},{"id":5,"start":"2022-04-21 12:07:32","end":"2022-04-21 12:07:42","project_id":1,"created_at":"2022-04-21T10:07:32.000000Z","updated_at":"2022-04-21T10:07:42.000000Z"},{"id":6,"start":"2022-04-21 12:07:54","end":"2022-04-21 12:08:04","project_id":1,"created_at":"2022-04-21T10:07:54.000000Z","updated_at":"2022-04-21T10:08:04.000000Z"},{"id":7,"start":"2022-04-21 12:08:21","end":"2022-04-21 12:08:31","project_id":1,"created_at":"2022-04-21T10:08:21.000000Z","updated_at":"2022-04-21T10:08:31.000000Z"},{"id":8,"start":"2022-04-21 12:22:01","end":null,"project_id":1,"created_at":"2022-04-21T10:22:01.000000Z","updated_at":"2022-04-21T10:22:01.000000Z"}]}}  
+[2022-04-21 12:22:02] local.INFO: Project 1 started  
+[2022-04-21 12:22:02] local.INFO: here is send sms service  
+[2022-04-21 12:22:02] local.INFO: SMS Project 1 started  
+[2022-04-21 12:27:40] testing.INFO: {"start":"2022-04-21T10:27:40.859389Z","project_id":1,"updated_at":"2022-04-21T10:27:40.000000Z","created_at":"2022-04-21T10:27:40.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Krajcik, Denesik and McKenzie","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-21T10:27:40.000000Z","updated_at":"2022-04-21T10:27:40.000000Z","entries":[{"id":1,"start":"2022-04-21 12:27:40","end":null,"project_id":"1","created_at":"2022-04-21T10:27:40.000000Z","updated_at":"2022-04-21T10:27:40.000000Z"}]}}  
+[2022-04-21 12:27:40] testing.INFO: Project 1 started  
+[2022-04-21 12:27:40] testing.INFO: here is send sms service  
+[2022-04-21 12:27:40] testing.INFO: SMS Project 1 started  
+[2022-04-21 12:27:41] testing.INFO: {"start":"2022-04-21T10:27:41.158241Z","project_id":1,"updated_at":"2022-04-21T10:27:41.000000Z","created_at":"2022-04-21T10:27:41.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Moore-Hyatt","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-21T10:27:41.000000Z","updated_at":"2022-04-21T10:27:41.000000Z","entries":[{"id":1,"start":"2022-04-21 12:27:41","end":null,"project_id":"1","created_at":"2022-04-21T10:27:41.000000Z","updated_at":"2022-04-21T10:27:41.000000Z"}]}}  
+[2022-04-21 12:27:41] testing.INFO: Project 1 started  
+[2022-04-21 12:27:41] testing.INFO: here is send sms service  
+[2022-04-21 12:27:41] testing.INFO: SMS Project 1 started  
+[2022-04-21 12:27:41] testing.INFO: {"start":"2022-04-21T10:27:41.223791Z","project_id":1,"updated_at":"2022-04-21T10:27:41.000000Z","created_at":"2022-04-21T10:27:41.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Bartoletti LLC","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-21T10:27:41.000000Z","updated_at":"2022-04-21T10:27:41.000000Z","entries":[{"id":1,"start":"2022-04-21 12:27:41","end":null,"project_id":"1","created_at":"2022-04-21T10:27:41.000000Z","updated_at":"2022-04-21T10:27:41.000000Z"}]}}  
+[2022-04-21 12:27:41] testing.INFO: Project 1 started  
+[2022-04-21 12:27:41] testing.INFO: here is send sms service  
+[2022-04-21 12:27:41] testing.INFO: SMS Project 1 started  
+[2022-04-21 12:27:41] testing.INFO: Project 1 stopped  
+[2022-04-21 12:27:41] testing.INFO: here is send sms service  
+[2022-04-21 12:27:41] testing.INFO: SMS Project 1 stopped  
+[2022-04-21 12:27:41] testing.INFO: {"start":"2022-04-21T10:27:41.292917Z","project_id":1,"updated_at":"2022-04-21T10:27:41.000000Z","created_at":"2022-04-21T10:27:41.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Abernathy LLC","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-21T10:27:41.000000Z","updated_at":"2022-04-21T10:27:41.000000Z","entries":[{"id":1,"start":"2022-04-21 12:27:41","end":null,"project_id":"1","created_at":"2022-04-21T10:27:41.000000Z","updated_at":"2022-04-21T10:27:41.000000Z"}]}}  
+[2022-04-21 12:27:41] testing.INFO: Project 1 started  
+[2022-04-21 12:27:41] testing.INFO: here is send sms service  
+[2022-04-21 12:27:41] testing.INFO: SMS Project 1 started  
+[2022-04-21 12:27:41] testing.INFO: Project 1 stopped  
+[2022-04-21 12:27:41] testing.INFO: here is send sms service  
+[2022-04-21 12:27:41] testing.INFO: SMS Project 1 stopped  
+[2022-04-21 12:27:41] testing.INFO: {"start":"2022-04-21T10:27:41.307798Z","project_id":2,"updated_at":"2022-04-21T10:27:41.000000Z","created_at":"2022-04-21T10:27:41.000000Z","id":2,"project":{"id":2,"user_id":"1","name":"Farrell, Lebsack and Feeney","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-21T10:27:41.000000Z","updated_at":"2022-04-21T10:27:41.000000Z","entries":[{"id":2,"start":"2022-04-21 12:27:41","end":null,"project_id":"2","created_at":"2022-04-21T10:27:41.000000Z","updated_at":"2022-04-21T10:27:41.000000Z"}]}}  
+[2022-04-21 12:27:41] testing.INFO: Project 2 started  
+[2022-04-21 12:27:41] testing.INFO: here is send sms service  
+[2022-04-21 12:27:41] testing.INFO: SMS Project 2 started  
+[2022-04-21 12:27:41] testing.INFO: {"start":"2022-04-21T10:27:41.368196Z","project_id":1,"updated_at":"2022-04-21T10:27:41.000000Z","created_at":"2022-04-21T10:27:41.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Miller-Walter","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-21T10:27:41.000000Z","updated_at":"2022-04-21T10:27:41.000000Z","entries":[{"id":1,"start":"2022-04-21 12:27:41","end":null,"project_id":"1","created_at":"2022-04-21T10:27:41.000000Z","updated_at":"2022-04-21T10:27:41.000000Z"}]}}  
+[2022-04-21 12:27:41] testing.INFO: Project 1 started  
+[2022-04-21 12:27:41] testing.INFO: here is send sms service  
+[2022-04-21 12:27:41] testing.INFO: SMS Project 1 started  
+[2022-04-21 12:27:59] testing.INFO: {"start":"2022-04-21T10:27:59.652951Z","project_id":1,"updated_at":"2022-04-21T10:27:59.000000Z","created_at":"2022-04-21T10:27:59.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Abernathy, Schulist and Parisian","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-21T10:27:59.000000Z","updated_at":"2022-04-21T10:27:59.000000Z","entries":[{"id":1,"start":"2022-04-21 12:27:59","end":null,"project_id":"1","created_at":"2022-04-21T10:27:59.000000Z","updated_at":"2022-04-21T10:27:59.000000Z"}]}}  
+[2022-04-21 12:27:59] testing.INFO: Project 1 started  
+[2022-04-21 12:27:59] testing.INFO: here is send sms service  
+[2022-04-21 12:27:59] testing.INFO: SMS Project 1 started  
+[2022-04-21 12:27:59] testing.INFO: {"start":"2022-04-21T10:27:59.854414Z","project_id":1,"updated_at":"2022-04-21T10:27:59.000000Z","created_at":"2022-04-21T10:27:59.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Donnelly Inc","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-21T10:27:59.000000Z","updated_at":"2022-04-21T10:27:59.000000Z","entries":[{"id":1,"start":"2022-04-21 12:27:59","end":null,"project_id":"1","created_at":"2022-04-21T10:27:59.000000Z","updated_at":"2022-04-21T10:27:59.000000Z"}]}}  
+[2022-04-21 12:27:59] testing.INFO: Project 1 started  
+[2022-04-21 12:27:59] testing.INFO: here is send sms service  
+[2022-04-21 12:27:59] testing.INFO: SMS Project 1 started  
+[2022-04-21 12:27:59] testing.INFO: {"start":"2022-04-21T10:27:59.900620Z","project_id":1,"updated_at":"2022-04-21T10:27:59.000000Z","created_at":"2022-04-21T10:27:59.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"O'Connell LLC","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-21T10:27:59.000000Z","updated_at":"2022-04-21T10:27:59.000000Z","entries":[{"id":1,"start":"2022-04-21 12:27:59","end":null,"project_id":"1","created_at":"2022-04-21T10:27:59.000000Z","updated_at":"2022-04-21T10:27:59.000000Z"}]}}  
+[2022-04-21 12:27:59] testing.INFO: Project 1 started  
+[2022-04-21 12:27:59] testing.INFO: here is send sms service  
+[2022-04-21 12:27:59] testing.INFO: SMS Project 1 started  
+[2022-04-21 12:27:59] testing.INFO: Project 1 stopped  
+[2022-04-21 12:27:59] testing.INFO: here is send sms service  
+[2022-04-21 12:27:59] testing.INFO: SMS Project 1 stopped  
+[2022-04-21 12:27:59] testing.INFO: {"start":"2022-04-21T10:27:59.948201Z","project_id":1,"updated_at":"2022-04-21T10:27:59.000000Z","created_at":"2022-04-21T10:27:59.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Metz, Hilpert and Hermann","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-21T10:27:59.000000Z","updated_at":"2022-04-21T10:27:59.000000Z","entries":[{"id":1,"start":"2022-04-21 12:27:59","end":null,"project_id":"1","created_at":"2022-04-21T10:27:59.000000Z","updated_at":"2022-04-21T10:27:59.000000Z"}]}}  
+[2022-04-21 12:27:59] testing.INFO: Project 1 started  
+[2022-04-21 12:27:59] testing.INFO: here is send sms service  
+[2022-04-21 12:27:59] testing.INFO: SMS Project 1 started  
+[2022-04-21 12:27:59] testing.INFO: Project 1 stopped  
+[2022-04-21 12:27:59] testing.INFO: here is send sms service  
+[2022-04-21 12:27:59] testing.INFO: SMS Project 1 stopped  
+[2022-04-21 12:27:59] testing.INFO: {"start":"2022-04-21T10:27:59.956217Z","project_id":2,"updated_at":"2022-04-21T10:27:59.000000Z","created_at":"2022-04-21T10:27:59.000000Z","id":2,"project":{"id":2,"user_id":"1","name":"King, Dicki and Graham","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-21T10:27:59.000000Z","updated_at":"2022-04-21T10:27:59.000000Z","entries":[{"id":2,"start":"2022-04-21 12:27:59","end":null,"project_id":"2","created_at":"2022-04-21T10:27:59.000000Z","updated_at":"2022-04-21T10:27:59.000000Z"}]}}  
+[2022-04-21 12:27:59] testing.INFO: Project 2 started  
+[2022-04-21 12:27:59] testing.INFO: here is send sms service  
+[2022-04-21 12:27:59] testing.INFO: SMS Project 2 started  
+[2022-04-21 12:28:00] testing.INFO: {"start":"2022-04-21T10:27:59.996105Z","project_id":1,"updated_at":"2022-04-21T10:27:59.000000Z","created_at":"2022-04-21T10:27:59.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Ledner Ltd","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-21T10:27:59.000000Z","updated_at":"2022-04-21T10:27:59.000000Z","entries":[{"id":1,"start":"2022-04-21 12:27:59","end":null,"project_id":"1","created_at":"2022-04-21T10:27:59.000000Z","updated_at":"2022-04-21T10:27:59.000000Z"}]}}  
+[2022-04-21 12:28:00] testing.INFO: Project 1 started  
+[2022-04-21 12:28:00] testing.INFO: here is send sms service  
+[2022-04-21 12:28:00] testing.INFO: SMS Project 1 started  
+[2022-04-21 12:29:03] testing.INFO: {"start":"2022-04-21T10:29:03.158813Z","project_id":1,"updated_at":"2022-04-21T10:29:03.000000Z","created_at":"2022-04-21T10:29:03.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Gorczany Ltd","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-21T10:29:03.000000Z","updated_at":"2022-04-21T10:29:03.000000Z","entries":[{"id":1,"start":"2022-04-21 12:29:03","end":null,"project_id":"1","created_at":"2022-04-21T10:29:03.000000Z","updated_at":"2022-04-21T10:29:03.000000Z"}]}}  
+[2022-04-21 12:29:03] testing.INFO: Project 1 started  
+[2022-04-21 12:29:03] testing.INFO: here is send sms service  
+[2022-04-21 12:29:03] testing.INFO: SMS Project 1 started  
+[2022-04-21 12:29:03] testing.INFO: {"start":"2022-04-21T10:29:03.363955Z","project_id":1,"updated_at":"2022-04-21T10:29:03.000000Z","created_at":"2022-04-21T10:29:03.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Christiansen-Schimmel","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-21T10:29:03.000000Z","updated_at":"2022-04-21T10:29:03.000000Z","entries":[{"id":1,"start":"2022-04-21 12:29:03","end":null,"project_id":"1","created_at":"2022-04-21T10:29:03.000000Z","updated_at":"2022-04-21T10:29:03.000000Z"}]}}  
+[2022-04-21 12:29:03] testing.INFO: Project 1 started  
+[2022-04-21 12:29:03] testing.INFO: here is send sms service  
+[2022-04-21 12:29:03] testing.INFO: SMS Project 1 started  
+[2022-04-21 12:29:03] testing.INFO: {"start":"2022-04-21T10:29:03.413514Z","project_id":1,"updated_at":"2022-04-21T10:29:03.000000Z","created_at":"2022-04-21T10:29:03.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Casper-Hegmann","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-21T10:29:03.000000Z","updated_at":"2022-04-21T10:29:03.000000Z","entries":[{"id":1,"start":"2022-04-21 12:29:03","end":null,"project_id":"1","created_at":"2022-04-21T10:29:03.000000Z","updated_at":"2022-04-21T10:29:03.000000Z"}]}}  
+[2022-04-21 12:29:03] testing.INFO: Project 1 started  
+[2022-04-21 12:29:03] testing.INFO: here is send sms service  
+[2022-04-21 12:29:03] testing.INFO: SMS Project 1 started  
+[2022-04-21 12:29:03] testing.INFO: Project 1 stopped  
+[2022-04-21 12:29:03] testing.INFO: here is send sms service  
+[2022-04-21 12:29:03] testing.INFO: SMS Project 1 stopped  
+[2022-04-21 12:29:03] testing.INFO: {"start":"2022-04-21T10:29:03.474387Z","project_id":1,"updated_at":"2022-04-21T10:29:03.000000Z","created_at":"2022-04-21T10:29:03.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Schulist-Gutkowski","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-21T10:29:03.000000Z","updated_at":"2022-04-21T10:29:03.000000Z","entries":[{"id":1,"start":"2022-04-21 12:29:03","end":null,"project_id":"1","created_at":"2022-04-21T10:29:03.000000Z","updated_at":"2022-04-21T10:29:03.000000Z"}]}}  
+[2022-04-21 12:29:03] testing.INFO: Project 1 started  
+[2022-04-21 12:29:03] testing.INFO: here is send sms service  
+[2022-04-21 12:29:03] testing.INFO: SMS Project 1 started  
+[2022-04-21 12:29:03] testing.INFO: Project 1 stopped  
+[2022-04-21 12:29:03] testing.INFO: here is send sms service  
+[2022-04-21 12:29:03] testing.INFO: SMS Project 1 stopped  
+[2022-04-21 12:29:03] testing.INFO: {"start":"2022-04-21T10:29:03.487051Z","project_id":2,"updated_at":"2022-04-21T10:29:03.000000Z","created_at":"2022-04-21T10:29:03.000000Z","id":2,"project":{"id":2,"user_id":"1","name":"Bogan-Schuster","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-21T10:29:03.000000Z","updated_at":"2022-04-21T10:29:03.000000Z","entries":[{"id":2,"start":"2022-04-21 12:29:03","end":null,"project_id":"2","created_at":"2022-04-21T10:29:03.000000Z","updated_at":"2022-04-21T10:29:03.000000Z"}]}}  
+[2022-04-21 12:29:03] testing.INFO: Project 2 started  
+[2022-04-21 12:29:03] testing.INFO: here is send sms service  
+[2022-04-21 12:29:03] testing.INFO: SMS Project 2 started  
+[2022-04-21 12:29:03] testing.INFO: {"start":"2022-04-21T10:29:03.535134Z","project_id":1,"updated_at":"2022-04-21T10:29:03.000000Z","created_at":"2022-04-21T10:29:03.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Quitzon, Hermiston and Douglas","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-21T10:29:03.000000Z","updated_at":"2022-04-21T10:29:03.000000Z","entries":[{"id":1,"start":"2022-04-21 12:29:03","end":null,"project_id":"1","created_at":"2022-04-21T10:29:03.000000Z","updated_at":"2022-04-21T10:29:03.000000Z"}]}}  
+[2022-04-21 12:29:03] testing.INFO: Project 1 started  
+[2022-04-21 12:29:03] testing.INFO: here is send sms service  
+[2022-04-21 12:29:03] testing.INFO: SMS Project 1 started  
+[2022-04-21 12:30:28] local.INFO: Project 1 stopped  
+[2022-04-21 12:30:28] local.INFO: here is send sms service  
+[2022-04-21 12:30:28] local.INFO: SMS Project 1 stopped  
+[2022-04-21 12:48:59] local.INFO: {"start":"2022-04-21T10:48:59.739120Z","project_id":1,"updated_at":"2022-04-21T10:48:59.000000Z","created_at":"2022-04-21T10:48:59.000000Z","id":9,"project":{"id":1,"user_id":1,"name":"Test Project","total_entries":9,"working_time_seconds":640,"is_stopped":false,"created_at":null,"updated_at":"2022-04-21T10:48:59.000000Z","entries":[{"id":1,"start":"2022-04-21 12:04:30","end":"2022-04-21 12:05:17","project_id":1,"created_at":"2022-04-21T10:04:30.000000Z","updated_at":"2022-04-21T10:05:17.000000Z"},{"id":2,"start":"2022-04-21 12:05:20","end":"2022-04-21 12:05:44","project_id":1,"created_at":"2022-04-21T10:05:20.000000Z","updated_at":"2022-04-21T10:05:44.000000Z"},{"id":3,"start":"2022-04-21 12:05:55","end":"2022-04-21 12:06:05","project_id":1,"created_at":"2022-04-21T10:05:55.000000Z","updated_at":"2022-04-21T10:06:05.000000Z"},{"id":4,"start":"2022-04-21 12:06:13","end":"2022-04-21 12:06:35","project_id":1,"created_at":"2022-04-21T10:06:13.000000Z","updated_at":"2022-04-21T10:06:35.000000Z"},{"id":5,"start":"2022-04-21 12:07:32","end":"2022-04-21 12:07:42","project_id":1,"created_at":"2022-04-21T10:07:32.000000Z","updated_at":"2022-04-21T10:07:42.000000Z"},{"id":6,"start":"2022-04-21 12:07:54","end":"2022-04-21 12:08:04","project_id":1,"created_at":"2022-04-21T10:07:54.000000Z","updated_at":"2022-04-21T10:08:04.000000Z"},{"id":7,"start":"2022-04-21 12:08:21","end":"2022-04-21 12:08:31","project_id":1,"created_at":"2022-04-21T10:08:21.000000Z","updated_at":"2022-04-21T10:08:31.000000Z"},{"id":8,"start":"2022-04-21 12:22:01","end":"2022-04-21 12:30:28","project_id":1,"created_at":"2022-04-21T10:22:01.000000Z","updated_at":"2022-04-21T10:30:28.000000Z"},{"id":9,"start":"2022-04-21 12:48:59","end":null,"project_id":1,"created_at":"2022-04-21T10:48:59.000000Z","updated_at":"2022-04-21T10:48:59.000000Z"}]}}  
+[2022-04-21 12:48:59] local.INFO: Project 1 started  
+[2022-04-21 12:48:59] local.INFO: here is send sms service  
+[2022-04-21 12:48:59] local.INFO: SMS Project 1 started  
+[2022-04-21 13:00:01] local.INFO: Project 1 stopped  
+[2022-04-21 13:00:01] local.INFO: here is send sms service  
+[2022-04-21 13:00:01] local.INFO: SMS Project 1 stopped  
+[2022-04-21 13:00:54] local.INFO: {"start":"2022-04-21T11:00:54.072462Z","project_id":1,"updated_at":"2022-04-21T11:00:54.000000Z","created_at":"2022-04-21T11:00:54.000000Z","id":10,"project":{"id":1,"user_id":1,"name":"Test Project","total_entries":10,"working_time_seconds":1302,"is_stopped":false,"created_at":null,"updated_at":"2022-04-21T11:00:54.000000Z","entries":[{"id":1,"start":"2022-04-21 12:04:30","end":"2022-04-21 12:05:17","project_id":1,"created_at":"2022-04-21T10:04:30.000000Z","updated_at":"2022-04-21T10:05:17.000000Z"},{"id":2,"start":"2022-04-21 12:05:20","end":"2022-04-21 12:05:44","project_id":1,"created_at":"2022-04-21T10:05:20.000000Z","updated_at":"2022-04-21T10:05:44.000000Z"},{"id":3,"start":"2022-04-21 12:05:55","end":"2022-04-21 12:06:05","project_id":1,"created_at":"2022-04-21T10:05:55.000000Z","updated_at":"2022-04-21T10:06:05.000000Z"},{"id":4,"start":"2022-04-21 12:06:13","end":"2022-04-21 12:06:35","project_id":1,"created_at":"2022-04-21T10:06:13.000000Z","updated_at":"2022-04-21T10:06:35.000000Z"},{"id":5,"start":"2022-04-21 12:07:32","end":"2022-04-21 12:07:42","project_id":1,"created_at":"2022-04-21T10:07:32.000000Z","updated_at":"2022-04-21T10:07:42.000000Z"},{"id":6,"start":"2022-04-21 12:07:54","end":"2022-04-21 12:08:04","project_id":1,"created_at":"2022-04-21T10:07:54.000000Z","updated_at":"2022-04-21T10:08:04.000000Z"},{"id":7,"start":"2022-04-21 12:08:21","end":"2022-04-21 12:08:31","project_id":1,"created_at":"2022-04-21T10:08:21.000000Z","updated_at":"2022-04-21T10:08:31.000000Z"},{"id":8,"start":"2022-04-21 12:22:01","end":"2022-04-21 12:30:28","project_id":1,"created_at":"2022-04-21T10:22:01.000000Z","updated_at":"2022-04-21T10:30:28.000000Z"},{"id":9,"start":"2022-04-21 12:48:59","end":"2022-04-21 13:00:01","project_id":1,"created_at":"2022-04-21T10:48:59.000000Z","updated_at":"2022-04-21T11:00:01.000000Z"},{"id":10,"start":"2022-04-21 13:00:54","end":null,"project_id":1,"created_at":"2022-04-21T11:00:54.000000Z","updated_at":"2022-04-21T11:00:54.000000Z"}]}}  
+[2022-04-21 13:00:54] local.INFO: Project 1 started  
+[2022-04-21 13:00:54] local.INFO: here is send sms service  
+[2022-04-21 13:00:54] local.INFO: SMS Project 1 started  
+[2022-04-21 13:01:17] local.INFO: Project 1 stopped  
+[2022-04-21 13:01:17] local.INFO: here is send sms service  
+[2022-04-21 13:01:17] local.INFO: SMS Project 1 stopped  
+[2022-04-21 13:11:53] local.INFO: {"start":"2022-04-21T11:11:53.143090Z","project_id":1,"updated_at":"2022-04-21T11:11:53.000000Z","created_at":"2022-04-21T11:11:53.000000Z","id":11,"project":{"id":1,"user_id":1,"name":"Test Project","total_entries":11,"working_time_seconds":1325,"is_stopped":false,"created_at":null,"updated_at":"2022-04-21T11:11:53.000000Z","entries":[{"id":1,"start":"2022-04-21 12:04:30","end":"2022-04-21 12:05:17","project_id":1,"created_at":"2022-04-21T10:04:30.000000Z","updated_at":"2022-04-21T10:05:17.000000Z"},{"id":2,"start":"2022-04-21 12:05:20","end":"2022-04-21 12:05:44","project_id":1,"created_at":"2022-04-21T10:05:20.000000Z","updated_at":"2022-04-21T10:05:44.000000Z"},{"id":3,"start":"2022-04-21 12:05:55","end":"2022-04-21 12:06:05","project_id":1,"created_at":"2022-04-21T10:05:55.000000Z","updated_at":"2022-04-21T10:06:05.000000Z"},{"id":4,"start":"2022-04-21 12:06:13","end":"2022-04-21 12:06:35","project_id":1,"created_at":"2022-04-21T10:06:13.000000Z","updated_at":"2022-04-21T10:06:35.000000Z"},{"id":5,"start":"2022-04-21 12:07:32","end":"2022-04-21 12:07:42","project_id":1,"created_at":"2022-04-21T10:07:32.000000Z","updated_at":"2022-04-21T10:07:42.000000Z"},{"id":6,"start":"2022-04-21 12:07:54","end":"2022-04-21 12:08:04","project_id":1,"created_at":"2022-04-21T10:07:54.000000Z","updated_at":"2022-04-21T10:08:04.000000Z"},{"id":7,"start":"2022-04-21 12:08:21","end":"2022-04-21 12:08:31","project_id":1,"created_at":"2022-04-21T10:08:21.000000Z","updated_at":"2022-04-21T10:08:31.000000Z"},{"id":8,"start":"2022-04-21 12:22:01","end":"2022-04-21 12:30:28","project_id":1,"created_at":"2022-04-21T10:22:01.000000Z","updated_at":"2022-04-21T10:30:28.000000Z"},{"id":9,"start":"2022-04-21 12:48:59","end":"2022-04-21 13:00:01","project_id":1,"created_at":"2022-04-21T10:48:59.000000Z","updated_at":"2022-04-21T11:00:01.000000Z"},{"id":10,"start":"2022-04-21 13:00:54","end":"2022-04-21 13:01:17","project_id":1,"created_at":"2022-04-21T11:00:54.000000Z","updated_at":"2022-04-21T11:01:17.000000Z"},{"id":11,"start":"2022-04-21 13:11:53","end":null,"project_id":1,"created_at":"2022-04-21T11:11:53.000000Z","updated_at":"2022-04-21T11:11:53.000000Z"}]}}  
+[2022-04-21 13:11:53] local.INFO: Project 1 started  
+[2022-04-21 13:11:53] local.INFO: here is send sms service  
+[2022-04-21 13:11:53] local.INFO: SMS Project 1 started  
+[2022-04-21 13:12:11] local.INFO: Project 1 stopped  
+[2022-04-21 13:12:11] local.INFO: here is send sms service  
+[2022-04-21 13:12:11] local.INFO: SMS Project 1 stopped  
+[2022-04-21 13:12:11] local.INFO: {"start":"2022-04-21T11:12:11.198207Z","project_id":2,"updated_at":"2022-04-21T11:12:11.000000Z","created_at":"2022-04-21T11:12:11.000000Z","id":12,"project":{"id":2,"user_id":1,"name":"1","total_entries":1,"working_time_seconds":0,"is_stopped":false,"created_at":"2022-04-21T11:12:04.000000Z","updated_at":"2022-04-21T11:12:11.000000Z","entries":[{"id":12,"start":"2022-04-21 13:12:11","end":null,"project_id":2,"created_at":"2022-04-21T11:12:11.000000Z","updated_at":"2022-04-21T11:12:11.000000Z"}]}}  
+[2022-04-21 13:12:11] local.INFO: Project 2 started  
+[2022-04-21 13:12:11] local.INFO: here is send sms service  
+[2022-04-21 13:12:11] local.INFO: SMS Project 2 started  
+[2022-04-21 13:12:25] local.INFO: Project 2 stopped  
+[2022-04-21 13:12:25] local.INFO: here is send sms service  
+[2022-04-21 13:12:25] local.INFO: SMS Project 2 stopped  
+[2022-04-21 13:13:34] local.INFO: {"start":"2022-04-21T11:13:34.742754Z","project_id":2,"updated_at":"2022-04-21T11:13:34.000000Z","created_at":"2022-04-21T11:13:34.000000Z","id":13,"project":{"id":2,"user_id":1,"name":"1","total_entries":2,"working_time_seconds":14,"is_stopped":false,"created_at":"2022-04-21T11:12:04.000000Z","updated_at":"2022-04-21T11:13:34.000000Z","entries":[{"id":12,"start":"2022-04-21 13:12:11","end":"2022-04-21 13:12:25","project_id":2,"created_at":"2022-04-21T11:12:11.000000Z","updated_at":"2022-04-21T11:12:25.000000Z"},{"id":13,"start":"2022-04-21 13:13:34","end":null,"project_id":2,"created_at":"2022-04-21T11:13:34.000000Z","updated_at":"2022-04-21T11:13:34.000000Z"}]}}  
+[2022-04-21 13:13:34] local.INFO: Project 2 started  
+[2022-04-21 13:13:34] local.INFO: here is send sms service  
+[2022-04-21 13:13:34] local.INFO: SMS Project 2 started  
+[2022-04-21 13:13:35] local.INFO: Project 2 stopped  
+[2022-04-21 13:13:35] local.INFO: here is send sms service  
+[2022-04-21 13:13:35] local.INFO: SMS Project 2 stopped  
+[2022-04-21 13:13:58] local.INFO: {"start":"2022-04-21T11:13:58.534786Z","project_id":3,"updated_at":"2022-04-21T11:13:58.000000Z","created_at":"2022-04-21T11:13:58.000000Z","id":14,"project":{"id":3,"user_id":1,"name":"1","total_entries":1,"working_time_seconds":0,"is_stopped":false,"created_at":"2022-04-21T11:13:53.000000Z","updated_at":"2022-04-21T11:13:58.000000Z","entries":[{"id":14,"start":"2022-04-21 13:13:58","end":null,"project_id":3,"created_at":"2022-04-21T11:13:58.000000Z","updated_at":"2022-04-21T11:13:58.000000Z"}]}}  
+[2022-04-21 13:13:58] local.INFO: Project 3 started  
+[2022-04-21 13:13:58] local.INFO: here is send sms service  
+[2022-04-21 13:13:58] local.INFO: SMS Project 3 started  
+[2022-04-21 13:14:02] local.INFO: Project 3 stopped  
+[2022-04-21 13:14:02] local.INFO: here is send sms service  
+[2022-04-21 13:14:02] local.INFO: SMS Project 3 stopped  
+[2022-04-21 13:14:03] local.INFO: {"start":"2022-04-21T11:14:03.775596Z","project_id":3,"updated_at":"2022-04-21T11:14:03.000000Z","created_at":"2022-04-21T11:14:03.000000Z","id":15,"project":{"id":3,"user_id":1,"name":"1","total_entries":2,"working_time_seconds":4,"is_stopped":false,"created_at":"2022-04-21T11:13:53.000000Z","updated_at":"2022-04-21T11:14:03.000000Z","entries":[{"id":14,"start":"2022-04-21 13:13:58","end":"2022-04-21 13:14:02","project_id":3,"created_at":"2022-04-21T11:13:58.000000Z","updated_at":"2022-04-21T11:14:02.000000Z"},{"id":15,"start":"2022-04-21 13:14:03","end":null,"project_id":3,"created_at":"2022-04-21T11:14:03.000000Z","updated_at":"2022-04-21T11:14:03.000000Z"}]}}  
+[2022-04-21 13:14:03] local.INFO: Project 3 started  
+[2022-04-21 13:14:03] local.INFO: here is send sms service  
+[2022-04-21 13:14:03] local.INFO: SMS Project 3 started  
+[2022-04-21 13:14:16] local.INFO: Project 3 stopped  
+[2022-04-21 13:14:16] local.INFO: here is send sms service  
+[2022-04-21 13:14:16] local.INFO: SMS Project 3 stopped  
+[2022-04-21 13:14:16] local.INFO: {"start":"2022-04-21T11:14:16.561957Z","project_id":4,"updated_at":"2022-04-21T11:14:16.000000Z","created_at":"2022-04-21T11:14:16.000000Z","id":16,"project":{"id":4,"user_id":1,"name":"2","total_entries":1,"working_time_seconds":0,"is_stopped":false,"created_at":"2022-04-21T11:14:11.000000Z","updated_at":"2022-04-21T11:14:16.000000Z","entries":[{"id":16,"start":"2022-04-21 13:14:16","end":null,"project_id":4,"created_at":"2022-04-21T11:14:16.000000Z","updated_at":"2022-04-21T11:14:16.000000Z"}]}}  
+[2022-04-21 13:14:16] local.INFO: Project 4 started  
+[2022-04-21 13:14:16] local.INFO: here is send sms service  
+[2022-04-21 13:14:16] local.INFO: SMS Project 4 started  
+[2022-04-21 13:31:52] local.INFO: observer project updated  
+[2022-04-21 13:31:52] local.INFO: {"id":4,"user_id":1,"name":"2","total_entries":1,"working_time_seconds":1056,"is_stopped":true,"created_at":"2022-04-21T11:14:11.000000Z","updated_at":"2022-04-21T11:31:52.000000Z"}  
+[2022-04-21 13:31:52] local.INFO: Project 4 stopped  
+[2022-04-21 13:31:52] local.INFO: here is send sms service  
+[2022-04-21 13:31:52] local.INFO: SMS Project 4 stopped  
+[2022-04-21 13:31:59] local.INFO: observer project started  
+[2022-04-21 13:31:59] local.INFO: {"id":5,"user_id":1,"name":"3","total_entries":1,"working_time_seconds":0,"is_stopped":false,"created_at":"2022-04-21T11:31:06.000000Z","updated_at":"2022-04-21T11:31:59.000000Z","entries":[{"id":17,"start":"2022-04-21 13:31:59","end":null,"project_id":5,"created_at":"2022-04-21T11:31:59.000000Z","updated_at":"2022-04-21T11:31:59.000000Z"}]}  
+[2022-04-21 13:31:59] local.INFO: Project 5 started  
+[2022-04-21 13:31:59] local.INFO: here is send sms service  
+[2022-04-21 13:31:59] local.INFO: SMS Project 5 started  
+[2022-04-21 13:32:09] local.INFO: observer project updated  
+[2022-04-21 13:32:09] local.INFO: {"id":5,"user_id":1,"name":"3","total_entries":1,"working_time_seconds":10,"is_stopped":true,"created_at":"2022-04-21T11:31:06.000000Z","updated_at":"2022-04-21T11:32:09.000000Z"}  
+[2022-04-21 13:32:09] local.INFO: Project 5 stopped  
+[2022-04-21 13:32:09] local.INFO: here is send sms service  
+[2022-04-21 13:32:09] local.INFO: SMS Project 5 stopped  
+[2022-04-21 13:32:09] local.INFO: observer project started  
+[2022-04-21 13:32:09] local.INFO: {"id":4,"user_id":1,"name":"2","total_entries":2,"working_time_seconds":1056,"is_stopped":false,"created_at":"2022-04-21T11:14:11.000000Z","updated_at":"2022-04-21T11:32:09.000000Z","entries":[{"id":16,"start":"2022-04-21 13:14:16","end":"2022-04-21 13:31:52","project_id":4,"created_at":"2022-04-21T11:14:16.000000Z","updated_at":"2022-04-21T11:31:52.000000Z"},{"id":18,"start":"2022-04-21 13:32:09","end":null,"project_id":4,"created_at":"2022-04-21T11:32:09.000000Z","updated_at":"2022-04-21T11:32:09.000000Z"}]}  
+[2022-04-21 13:32:09] local.INFO: Project 4 started  
+[2022-04-21 13:32:09] local.INFO: here is send sms service  
+[2022-04-21 13:32:09] local.INFO: SMS Project 4 started  
+[2022-04-21 13:33:46] local.INFO: observer project started  
+[2022-04-21 13:33:46] local.INFO: {"id":6,"user_id":1,"name":"1","total_entries":1,"working_time_seconds":0,"is_stopped":false,"created_at":"2022-04-21T11:33:36.000000Z","updated_at":"2022-04-21T11:33:46.000000Z","entries":[{"id":19,"start":"2022-04-21 13:33:46","end":null,"project_id":6,"created_at":"2022-04-21T11:33:46.000000Z","updated_at":"2022-04-21T11:33:46.000000Z"}]}  
+[2022-04-21 13:33:46] local.INFO: Project 6 started  
+[2022-04-21 13:33:46] local.INFO: here is send sms service  
+[2022-04-21 13:33:46] local.INFO: SMS Project 6 started  
+[2022-04-21 13:33:56] local.INFO: observer project updated  
+[2022-04-21 13:33:56] local.INFO: {"id":6,"user_id":1,"name":"1","total_entries":1,"working_time_seconds":10,"is_stopped":true,"created_at":"2022-04-21T11:33:36.000000Z","updated_at":"2022-04-21T11:33:56.000000Z"}  
+[2022-04-21 13:33:56] local.INFO: Project 6 stopped  
+[2022-04-21 13:33:56] local.INFO: here is send sms service  
+[2022-04-21 13:33:56] local.INFO: SMS Project 6 stopped  
+[2022-04-21 13:33:56] local.INFO: observer project started  
+[2022-04-21 13:33:56] local.INFO: {"id":7,"user_id":1,"name":"2","total_entries":1,"working_time_seconds":0,"is_stopped":false,"created_at":"2022-04-21T11:33:42.000000Z","updated_at":"2022-04-21T11:33:56.000000Z","entries":[{"id":20,"start":"2022-04-21 13:33:56","end":null,"project_id":7,"created_at":"2022-04-21T11:33:56.000000Z","updated_at":"2022-04-21T11:33:56.000000Z"}]}  
+[2022-04-21 13:33:56] local.INFO: Project 7 started  
+[2022-04-21 13:33:56] local.INFO: here is send sms service  
+[2022-04-21 13:33:56] local.INFO: SMS Project 7 started  
+[2022-04-21 13:34:10] local.INFO: observer project updated  
+[2022-04-21 13:34:10] local.INFO: {"id":7,"user_id":1,"name":"2","total_entries":1,"working_time_seconds":14,"is_stopped":true,"created_at":"2022-04-21T11:33:42.000000Z","updated_at":"2022-04-21T11:34:10.000000Z"}  
+[2022-04-21 13:34:10] local.INFO: Project 7 stopped  
+[2022-04-21 13:34:10] local.INFO: here is send sms service  
+[2022-04-21 13:34:10] local.INFO: SMS Project 7 stopped  
+[2022-04-21 13:34:10] local.INFO: observer project started  
+[2022-04-21 13:34:10] local.INFO: {"id":6,"user_id":1,"name":"1","total_entries":2,"working_time_seconds":20,"is_stopped":false,"created_at":"2022-04-21T11:33:36.000000Z","updated_at":"2022-04-21T11:34:10.000000Z","entries":[{"id":19,"start":"2022-04-21 13:33:46","end":"2022-04-21 13:33:56","project_id":6,"created_at":"2022-04-21T11:33:46.000000Z","updated_at":"2022-04-21T11:33:56.000000Z"},{"id":21,"start":"2022-04-21 13:34:10","end":null,"project_id":6,"created_at":"2022-04-21T11:34:10.000000Z","updated_at":"2022-04-21T11:34:10.000000Z"}]}  
+[2022-04-21 13:34:10] local.INFO: Project 6 started  
+[2022-04-21 13:34:10] local.INFO: here is send sms service  
+[2022-04-21 13:34:10] local.INFO: SMS Project 6 started  
+[2022-04-21 13:36:19] local.INFO: observer project updated  
+[2022-04-21 13:36:19] local.INFO: {"id":6,"user_id":1,"name":"1","total_entries":2,"working_time_seconds":149,"is_stopped":true,"created_at":"2022-04-21T11:33:36.000000Z","updated_at":"2022-04-21T11:36:19.000000Z"}  
+[2022-04-21 13:36:19] local.INFO: Project 6 stopped  
+[2022-04-21 13:36:19] local.INFO: here is send sms service  
+[2022-04-21 13:36:19] local.INFO: SMS Project 6 stopped  
+[2022-04-21 13:36:48] local.INFO: observer project started  
+[2022-04-21 13:36:48] local.INFO: {"id":8,"user_id":1,"name":"1","total_entries":1,"working_time_seconds":0,"is_stopped":false,"created_at":"2022-04-21T11:36:38.000000Z","updated_at":"2022-04-21T11:36:48.000000Z","entries":[{"id":22,"start":"2022-04-21 13:36:48","end":null,"project_id":8,"created_at":"2022-04-21T11:36:48.000000Z","updated_at":"2022-04-21T11:36:48.000000Z"}]}  
+[2022-04-21 13:36:48] local.INFO: Project 8 started  
+[2022-04-21 13:36:48] local.INFO: here is send sms service  
+[2022-04-21 13:36:48] local.INFO: SMS Project 8 started  
+[2022-04-21 13:36:52] local.INFO: observer project updated  
+[2022-04-21 13:36:52] local.INFO: {"id":8,"user_id":1,"name":"1","total_entries":1,"working_time_seconds":4,"is_stopped":true,"created_at":"2022-04-21T11:36:38.000000Z","updated_at":"2022-04-21T11:36:52.000000Z"}  
+[2022-04-21 13:36:52] local.INFO: Project 8 stopped  
+[2022-04-21 13:36:52] local.INFO: here is send sms service  
+[2022-04-21 13:36:52] local.INFO: SMS Project 8 stopped  
+[2022-04-21 13:36:52] local.INFO: observer project started  
+[2022-04-21 13:36:52] local.INFO: {"id":9,"user_id":1,"name":"2","total_entries":1,"working_time_seconds":0,"is_stopped":false,"created_at":"2022-04-21T11:36:42.000000Z","updated_at":"2022-04-21T11:36:52.000000Z","entries":[{"id":23,"start":"2022-04-21 13:36:52","end":null,"project_id":9,"created_at":"2022-04-21T11:36:52.000000Z","updated_at":"2022-04-21T11:36:52.000000Z"}]}  
+[2022-04-21 13:36:52] local.INFO: Project 9 started  
+[2022-04-21 13:36:52] local.INFO: here is send sms service  
+[2022-04-21 13:36:52] local.INFO: SMS Project 9 started  
