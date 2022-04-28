@@ -4,6 +4,7 @@ namespace Tests\Feature;
 
 use App\User;
 use App\Project;
+use Carbon\Carbon;
 use Tests\TestCase;
 use Illuminate\Foundation\Testing\WithFaker;
 use Illuminate\Foundation\Testing\RefreshDatabase;
@@ -99,27 +100,15 @@ class EntryTest extends TestCase
         ]);
     }
 
-    public function testIf()
+    public function testIfWorkingTimeSecondsIsCorrectForOneDay()
     {
         $user = factory(User::class)->create();
         $project = factory(Project::class)->create();
-        // 'working_time_seconds', 'total_entries', 'is_stopped'
-        $otherProject = factory(Project::class)->create();
+        Carbon::setTestNow(Carbon::createFromDate(2022, 04, 28));
         $this->actingAs($user)->postJson('/api/projects/' . $project->id . '/start');
-        $this->actingAs($user)->postJson('/api/projects/' . $otherProject->id . '/start');
-        Log::info('========= Test Started');
-        // sleep(2);
+        Carbon::setTestNow(Carbon::createFromDate(2022, 04, 29));
         $response = $this->actingAs($user)->patchJson('/api/projects/' . $project->id . '/stop');
-        // sleep(2);
-        // dd($p1);
         $pro1 = Project::find(1);
-        Log::info($pro1);
-        Log::info('========= Test Ended');
-        dd($pro1);
-        // dd($p1->entries);
-        $response->assertJson([
-            "status"=> "success",
-            "message"=> "Project is already stopped"
-        ]);
+        $this->assertTrue($pro1->working_time_seconds == 86400 );
     }
 }

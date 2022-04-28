@@ -1,0 +1,175 @@
+[2022-04-28 10:18:41] testing.INFO: {"start":"2022-04-28T08:18:41.329131Z","project_id":1,"updated_at":"2022-04-28T08:18:41.000000Z","created_at":"2022-04-28T08:18:41.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Funk-Runolfsson","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-28T08:18:41.000000Z","updated_at":"2022-04-28T08:18:41.000000Z","entries":[{"id":1,"start":"2022-04-28 10:18:41","end":null,"project_id":"1","created_at":"2022-04-28T08:18:41.000000Z","updated_at":"2022-04-28T08:18:41.000000Z"}]}}  
+[2022-04-28 10:18:41] testing.INFO: Project 1 started  
+[2022-04-28 10:18:41] testing.INFO: here is send sms service  
+[2022-04-28 10:18:41] testing.INFO: SMS Project 1 started  
+[2022-04-28 10:18:42] testing.INFO: {"start":"2022-04-28T08:18:42.097761Z","project_id":1,"updated_at":"2022-04-28T08:18:42.000000Z","created_at":"2022-04-28T08:18:42.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Osinski, Orn and Blanda","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-28T08:18:42.000000Z","updated_at":"2022-04-28T08:18:42.000000Z","entries":[{"id":1,"start":"2022-04-28 10:18:42","end":null,"project_id":"1","created_at":"2022-04-28T08:18:42.000000Z","updated_at":"2022-04-28T08:18:42.000000Z"}]}}  
+[2022-04-28 10:18:42] testing.INFO: Project 1 started  
+[2022-04-28 10:18:42] testing.INFO: here is send sms service  
+[2022-04-28 10:18:42] testing.INFO: SMS Project 1 started  
+[2022-04-28 10:18:42] testing.INFO: {"start":"2022-04-28T08:18:42.143127Z","project_id":1,"updated_at":"2022-04-28T08:18:42.000000Z","created_at":"2022-04-28T08:18:42.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Welch-Turcotte","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-28T08:18:42.000000Z","updated_at":"2022-04-28T08:18:42.000000Z","entries":[{"id":1,"start":"2022-04-28 10:18:42","end":null,"project_id":"1","created_at":"2022-04-28T08:18:42.000000Z","updated_at":"2022-04-28T08:18:42.000000Z"}]}}  
+[2022-04-28 10:18:42] testing.INFO: Project 1 started  
+[2022-04-28 10:18:42] testing.INFO: here is send sms service  
+[2022-04-28 10:18:42] testing.INFO: SMS Project 1 started  
+[2022-04-28 10:18:42] testing.INFO: Project 1 stopped  
+[2022-04-28 10:18:42] testing.INFO: here is send sms service  
+[2022-04-28 10:18:42] testing.INFO: SMS Project 1 stopped  
+[2022-04-28 10:18:42] testing.INFO: {"start":"2022-04-28T08:18:42.184091Z","project_id":1,"updated_at":"2022-04-28T08:18:42.000000Z","created_at":"2022-04-28T08:18:42.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Nicolas-Emard","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-28T08:18:42.000000Z","updated_at":"2022-04-28T08:18:42.000000Z","entries":[{"id":1,"start":"2022-04-28 10:18:42","end":null,"project_id":"1","created_at":"2022-04-28T08:18:42.000000Z","updated_at":"2022-04-28T08:18:42.000000Z"}]}}  
+[2022-04-28 10:18:42] testing.INFO: Project 1 started  
+[2022-04-28 10:18:42] testing.INFO: here is send sms service  
+[2022-04-28 10:18:42] testing.INFO: SMS Project 1 started  
+[2022-04-28 10:18:42] testing.INFO: Project 1 stopped  
+[2022-04-28 10:18:42] testing.INFO: here is send sms service  
+[2022-04-28 10:18:42] testing.INFO: SMS Project 1 stopped  
+[2022-04-28 10:18:42] testing.INFO: {"start":"2022-04-28T08:18:42.190919Z","project_id":2,"updated_at":"2022-04-28T08:18:42.000000Z","created_at":"2022-04-28T08:18:42.000000Z","id":2,"project":{"id":2,"user_id":"1","name":"McCullough LLC","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-28T08:18:42.000000Z","updated_at":"2022-04-28T08:18:42.000000Z","entries":[{"id":2,"start":"2022-04-28 10:18:42","end":null,"project_id":"2","created_at":"2022-04-28T08:18:42.000000Z","updated_at":"2022-04-28T08:18:42.000000Z"}]}}  
+[2022-04-28 10:18:42] testing.INFO: Project 2 started  
+[2022-04-28 10:18:42] testing.INFO: here is send sms service  
+[2022-04-28 10:18:42] testing.INFO: SMS Project 2 started  
+[2022-04-28 10:18:42] testing.INFO: {"start":"2022-04-28T08:18:42.231186Z","project_id":1,"updated_at":"2022-04-28T08:18:42.000000Z","created_at":"2022-04-28T08:18:42.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Homenick-Torp","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-28T08:18:42.000000Z","updated_at":"2022-04-28T08:18:42.000000Z","entries":[{"id":1,"start":"2022-04-28 10:18:42","end":null,"project_id":"1","created_at":"2022-04-28T08:18:42.000000Z","updated_at":"2022-04-28T08:18:42.000000Z"}]}}  
+[2022-04-28 10:18:42] testing.INFO: Project 1 started  
+[2022-04-28 10:18:42] testing.INFO: here is send sms service  
+[2022-04-28 10:18:42] testing.INFO: SMS Project 1 started  
+[2022-04-28 10:18:42] testing.INFO: Project 1 stopped  
+[2022-04-28 10:18:42] testing.INFO: here is send sms service  
+[2022-04-28 10:18:42] testing.INFO: SMS Project 1 stopped  
+[2022-04-28 10:18:42] testing.INFO: {"start":"2022-04-28T08:18:42.238662Z","project_id":2,"updated_at":"2022-04-28T08:18:42.000000Z","created_at":"2022-04-28T08:18:42.000000Z","id":2,"project":{"id":2,"user_id":"1","name":"Luettgen-Blanda","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-28T08:18:42.000000Z","updated_at":"2022-04-28T08:18:42.000000Z","entries":[{"id":2,"start":"2022-04-28 10:18:42","end":null,"project_id":"2","created_at":"2022-04-28T08:18:42.000000Z","updated_at":"2022-04-28T08:18:42.000000Z"}]}}  
+[2022-04-28 10:18:42] testing.INFO: Project 2 started  
+[2022-04-28 10:18:42] testing.INFO: here is send sms service  
+[2022-04-28 10:18:42] testing.INFO: SMS Project 2 started  
+[2022-04-28 10:18:42] testing.INFO: ========= Test Started  
+[2022-04-28 10:18:42] testing.INFO: {"id":1,"user_id":"1","name":"Homenick-Torp","total_entries":"1","working_time_seconds":"0","is_stopped":"1","created_at":"2022-04-28T08:18:42.000000Z","updated_at":"2022-04-28T08:18:42.000000Z"}  
+[2022-04-28 10:18:42] testing.INFO: ========= Test Ended  
+[2022-04-28 10:24:41] testing.INFO: {"start":"2022-04-28T08:24:41.832253Z","project_id":1,"updated_at":"2022-04-28T08:24:41.000000Z","created_at":"2022-04-28T08:24:41.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Crooks, McLaughlin and Walter","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-28T08:24:41.000000Z","updated_at":"2022-04-28T08:24:41.000000Z","entries":[{"id":1,"start":"2022-04-28 10:24:41","end":null,"project_id":"1","created_at":"2022-04-28T08:24:41.000000Z","updated_at":"2022-04-28T08:24:41.000000Z"}]}}  
+[2022-04-28 10:24:41] testing.INFO: Project 1 started  
+[2022-04-28 10:24:41] testing.INFO: here is send sms service  
+[2022-04-28 10:24:41] testing.INFO: SMS Project 1 started  
+[2022-04-28 10:24:42] testing.INFO: {"start":"2022-04-28T08:24:42.026606Z","project_id":1,"updated_at":"2022-04-28T08:24:42.000000Z","created_at":"2022-04-28T08:24:42.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Bins Group","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-28T08:24:42.000000Z","updated_at":"2022-04-28T08:24:42.000000Z","entries":[{"id":1,"start":"2022-04-28 10:24:42","end":null,"project_id":"1","created_at":"2022-04-28T08:24:42.000000Z","updated_at":"2022-04-28T08:24:42.000000Z"}]}}  
+[2022-04-28 10:24:42] testing.INFO: Project 1 started  
+[2022-04-28 10:24:42] testing.INFO: here is send sms service  
+[2022-04-28 10:24:42] testing.INFO: SMS Project 1 started  
+[2022-04-28 10:24:42] testing.INFO: {"start":"2022-04-28T08:24:42.068596Z","project_id":1,"updated_at":"2022-04-28T08:24:42.000000Z","created_at":"2022-04-28T08:24:42.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Hegmann Inc","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-28T08:24:42.000000Z","updated_at":"2022-04-28T08:24:42.000000Z","entries":[{"id":1,"start":"2022-04-28 10:24:42","end":null,"project_id":"1","created_at":"2022-04-28T08:24:42.000000Z","updated_at":"2022-04-28T08:24:42.000000Z"}]}}  
+[2022-04-28 10:24:42] testing.INFO: Project 1 started  
+[2022-04-28 10:24:42] testing.INFO: here is send sms service  
+[2022-04-28 10:24:42] testing.INFO: SMS Project 1 started  
+[2022-04-28 10:24:42] testing.INFO: Project 1 stopped  
+[2022-04-28 10:24:42] testing.INFO: here is send sms service  
+[2022-04-28 10:24:42] testing.INFO: SMS Project 1 stopped  
+[2022-04-28 10:24:42] testing.INFO: {"start":"2022-04-28T08:24:42.114231Z","project_id":1,"updated_at":"2022-04-28T08:24:42.000000Z","created_at":"2022-04-28T08:24:42.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Jast PLC","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-28T08:24:42.000000Z","updated_at":"2022-04-28T08:24:42.000000Z","entries":[{"id":1,"start":"2022-04-28 10:24:42","end":null,"project_id":"1","created_at":"2022-04-28T08:24:42.000000Z","updated_at":"2022-04-28T08:24:42.000000Z"}]}}  
+[2022-04-28 10:24:42] testing.INFO: Project 1 started  
+[2022-04-28 10:24:42] testing.INFO: here is send sms service  
+[2022-04-28 10:24:42] testing.INFO: SMS Project 1 started  
+[2022-04-28 10:24:42] testing.INFO: Project 1 stopped  
+[2022-04-28 10:24:42] testing.INFO: here is send sms service  
+[2022-04-28 10:24:42] testing.INFO: SMS Project 1 stopped  
+[2022-04-28 10:24:42] testing.INFO: {"start":"2022-04-28T08:24:42.123975Z","project_id":2,"updated_at":"2022-04-28T08:24:42.000000Z","created_at":"2022-04-28T08:24:42.000000Z","id":2,"project":{"id":2,"user_id":"1","name":"Skiles, Corwin and Feeney","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-28T08:24:42.000000Z","updated_at":"2022-04-28T08:24:42.000000Z","entries":[{"id":2,"start":"2022-04-28 10:24:42","end":null,"project_id":"2","created_at":"2022-04-28T08:24:42.000000Z","updated_at":"2022-04-28T08:24:42.000000Z"}]}}  
+[2022-04-28 10:24:42] testing.INFO: Project 2 started  
+[2022-04-28 10:24:42] testing.INFO: here is send sms service  
+[2022-04-28 10:24:42] testing.INFO: SMS Project 2 started  
+[2022-04-28 10:24:42] testing.INFO: {"start":"2022-04-28T08:24:42.163260Z","project_id":1,"updated_at":"2022-04-28T08:24:42.000000Z","created_at":"2022-04-28T08:24:42.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"McCullough Ltd","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-28T08:24:42.000000Z","updated_at":"2022-04-28T08:24:42.000000Z","entries":[{"id":1,"start":"2022-04-28 10:24:42","end":null,"project_id":"1","created_at":"2022-04-28T08:24:42.000000Z","updated_at":"2022-04-28T08:24:42.000000Z"}]}}  
+[2022-04-28 10:24:42] testing.INFO: Project 1 started  
+[2022-04-28 10:24:42] testing.INFO: here is send sms service  
+[2022-04-28 10:24:42] testing.INFO: SMS Project 1 started  
+[2022-04-28 10:25:09] testing.INFO: {"start":"2022-04-28T08:25:09.301691Z","project_id":1,"updated_at":"2022-04-28T08:25:09.000000Z","created_at":"2022-04-28T08:25:09.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Fadel-Kertzmann","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-28T08:25:09.000000Z","updated_at":"2022-04-28T08:25:09.000000Z","entries":[{"id":1,"start":"2022-04-28 10:25:09","end":null,"project_id":"1","created_at":"2022-04-28T08:25:09.000000Z","updated_at":"2022-04-28T08:25:09.000000Z"}]}}  
+[2022-04-28 10:25:09] testing.INFO: Project 1 started  
+[2022-04-28 10:25:09] testing.INFO: here is send sms service  
+[2022-04-28 10:25:09] testing.INFO: SMS Project 1 started  
+[2022-04-28 10:25:09] testing.INFO: {"start":"2022-04-28T08:25:09.495573Z","project_id":1,"updated_at":"2022-04-28T08:25:09.000000Z","created_at":"2022-04-28T08:25:09.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Botsford and Sons","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-28T08:25:09.000000Z","updated_at":"2022-04-28T08:25:09.000000Z","entries":[{"id":1,"start":"2022-04-28 10:25:09","end":null,"project_id":"1","created_at":"2022-04-28T08:25:09.000000Z","updated_at":"2022-04-28T08:25:09.000000Z"}]}}  
+[2022-04-28 10:25:09] testing.INFO: Project 1 started  
+[2022-04-28 10:25:09] testing.INFO: here is send sms service  
+[2022-04-28 10:25:09] testing.INFO: SMS Project 1 started  
+[2022-04-28 10:25:09] testing.INFO: {"start":"2022-04-28T08:25:09.540554Z","project_id":1,"updated_at":"2022-04-28T08:25:09.000000Z","created_at":"2022-04-28T08:25:09.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Gerhold Inc","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-28T08:25:09.000000Z","updated_at":"2022-04-28T08:25:09.000000Z","entries":[{"id":1,"start":"2022-04-28 10:25:09","end":null,"project_id":"1","created_at":"2022-04-28T08:25:09.000000Z","updated_at":"2022-04-28T08:25:09.000000Z"}]}}  
+[2022-04-28 10:25:09] testing.INFO: Project 1 started  
+[2022-04-28 10:25:09] testing.INFO: here is send sms service  
+[2022-04-28 10:25:09] testing.INFO: SMS Project 1 started  
+[2022-04-28 10:25:09] testing.INFO: Project 1 stopped  
+[2022-04-28 10:25:09] testing.INFO: here is send sms service  
+[2022-04-28 10:25:09] testing.INFO: SMS Project 1 stopped  
+[2022-04-28 10:25:09] testing.INFO: {"start":"2022-04-28T08:25:09.588511Z","project_id":1,"updated_at":"2022-04-28T08:25:09.000000Z","created_at":"2022-04-28T08:25:09.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Murray, Hammes and Padberg","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-28T08:25:09.000000Z","updated_at":"2022-04-28T08:25:09.000000Z","entries":[{"id":1,"start":"2022-04-28 10:25:09","end":null,"project_id":"1","created_at":"2022-04-28T08:25:09.000000Z","updated_at":"2022-04-28T08:25:09.000000Z"}]}}  
+[2022-04-28 10:25:09] testing.INFO: Project 1 started  
+[2022-04-28 10:25:09] testing.INFO: here is send sms service  
+[2022-04-28 10:25:09] testing.INFO: SMS Project 1 started  
+[2022-04-28 10:25:09] testing.INFO: Project 1 stopped  
+[2022-04-28 10:25:09] testing.INFO: here is send sms service  
+[2022-04-28 10:25:09] testing.INFO: SMS Project 1 stopped  
+[2022-04-28 10:25:09] testing.INFO: {"start":"2022-04-28T08:25:09.596563Z","project_id":2,"updated_at":"2022-04-28T08:25:09.000000Z","created_at":"2022-04-28T08:25:09.000000Z","id":2,"project":{"id":2,"user_id":"1","name":"Gerlach PLC","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-28T08:25:09.000000Z","updated_at":"2022-04-28T08:25:09.000000Z","entries":[{"id":2,"start":"2022-04-28 10:25:09","end":null,"project_id":"2","created_at":"2022-04-28T08:25:09.000000Z","updated_at":"2022-04-28T08:25:09.000000Z"}]}}  
+[2022-04-28 10:25:09] testing.INFO: Project 2 started  
+[2022-04-28 10:25:09] testing.INFO: here is send sms service  
+[2022-04-28 10:25:09] testing.INFO: SMS Project 2 started  
+[2022-04-28 10:25:09] testing.INFO: {"start":"2022-04-28T08:25:09.637955Z","project_id":1,"updated_at":"2022-04-28T08:25:09.000000Z","created_at":"2022-04-28T08:25:09.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Hilpert and Sons","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-28T08:25:09.000000Z","updated_at":"2022-04-28T08:25:09.000000Z","entries":[{"id":1,"start":"2022-04-28 10:25:09","end":null,"project_id":"1","created_at":"2022-04-28T08:25:09.000000Z","updated_at":"2022-04-28T08:25:09.000000Z"}]}}  
+[2022-04-28 10:25:09] testing.INFO: Project 1 started  
+[2022-04-28 10:25:09] testing.INFO: here is send sms service  
+[2022-04-28 10:25:09] testing.INFO: SMS Project 1 started  
+[2022-04-28 10:26:37] testing.INFO: {"start":"2022-04-28T08:26:37.612508Z","project_id":1,"updated_at":"2022-04-28T08:26:37.000000Z","created_at":"2022-04-28T08:26:37.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Johnston, Zemlak and Dickens","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-28T08:26:37.000000Z","updated_at":"2022-04-28T08:26:37.000000Z","entries":[{"id":1,"start":"2022-04-28 10:26:37","end":null,"project_id":"1","created_at":"2022-04-28T08:26:37.000000Z","updated_at":"2022-04-28T08:26:37.000000Z"}]}}  
+[2022-04-28 10:26:37] testing.INFO: Project 1 started  
+[2022-04-28 10:26:37] testing.INFO: here is send sms service  
+[2022-04-28 10:26:37] testing.INFO: SMS Project 1 started  
+[2022-04-28 10:26:37] testing.INFO: {"start":"2022-04-28T08:26:37.803315Z","project_id":1,"updated_at":"2022-04-28T08:26:37.000000Z","created_at":"2022-04-28T08:26:37.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Emard-Nader","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-28T08:26:37.000000Z","updated_at":"2022-04-28T08:26:37.000000Z","entries":[{"id":1,"start":"2022-04-28 10:26:37","end":null,"project_id":"1","created_at":"2022-04-28T08:26:37.000000Z","updated_at":"2022-04-28T08:26:37.000000Z"}]}}  
+[2022-04-28 10:26:37] testing.INFO: Project 1 started  
+[2022-04-28 10:26:37] testing.INFO: here is send sms service  
+[2022-04-28 10:26:37] testing.INFO: SMS Project 1 started  
+[2022-04-28 10:26:37] testing.INFO: {"start":"2022-04-28T08:26:37.848990Z","project_id":1,"updated_at":"2022-04-28T08:26:37.000000Z","created_at":"2022-04-28T08:26:37.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Thiel-Spinka","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-28T08:26:37.000000Z","updated_at":"2022-04-28T08:26:37.000000Z","entries":[{"id":1,"start":"2022-04-28 10:26:37","end":null,"project_id":"1","created_at":"2022-04-28T08:26:37.000000Z","updated_at":"2022-04-28T08:26:37.000000Z"}]}}  
+[2022-04-28 10:26:37] testing.INFO: Project 1 started  
+[2022-04-28 10:26:37] testing.INFO: here is send sms service  
+[2022-04-28 10:26:37] testing.INFO: SMS Project 1 started  
+[2022-04-28 10:26:37] testing.INFO: Project 1 stopped  
+[2022-04-28 10:26:37] testing.INFO: here is send sms service  
+[2022-04-28 10:26:37] testing.INFO: SMS Project 1 stopped  
+[2022-04-28 10:26:37] testing.INFO: {"start":"2022-04-28T08:26:37.902571Z","project_id":1,"updated_at":"2022-04-28T08:26:37.000000Z","created_at":"2022-04-28T08:26:37.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Boyer, Borer and Bergstrom","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-28T08:26:37.000000Z","updated_at":"2022-04-28T08:26:37.000000Z","entries":[{"id":1,"start":"2022-04-28 10:26:37","end":null,"project_id":"1","created_at":"2022-04-28T08:26:37.000000Z","updated_at":"2022-04-28T08:26:37.000000Z"}]}}  
+[2022-04-28 10:26:37] testing.INFO: Project 1 started  
+[2022-04-28 10:26:37] testing.INFO: here is send sms service  
+[2022-04-28 10:26:37] testing.INFO: SMS Project 1 started  
+[2022-04-28 10:26:37] testing.INFO: Project 1 stopped  
+[2022-04-28 10:26:37] testing.INFO: here is send sms service  
+[2022-04-28 10:26:37] testing.INFO: SMS Project 1 stopped  
+[2022-04-28 10:26:37] testing.INFO: {"start":"2022-04-28T08:26:37.909585Z","project_id":2,"updated_at":"2022-04-28T08:26:37.000000Z","created_at":"2022-04-28T08:26:37.000000Z","id":2,"project":{"id":2,"user_id":"1","name":"Ratke-Spinka","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-28T08:26:37.000000Z","updated_at":"2022-04-28T08:26:37.000000Z","entries":[{"id":2,"start":"2022-04-28 10:26:37","end":null,"project_id":"2","created_at":"2022-04-28T08:26:37.000000Z","updated_at":"2022-04-28T08:26:37.000000Z"}]}}  
+[2022-04-28 10:26:37] testing.INFO: Project 2 started  
+[2022-04-28 10:26:37] testing.INFO: here is send sms service  
+[2022-04-28 10:26:37] testing.INFO: SMS Project 2 started  
+[2022-04-28 10:26:37] testing.INFO: {"start":"2022-04-28T08:26:37.946254Z","project_id":1,"updated_at":"2022-04-28T08:26:37.000000Z","created_at":"2022-04-28T08:26:37.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Hodkiewicz Ltd","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-28T08:26:37.000000Z","updated_at":"2022-04-28T08:26:37.000000Z","entries":[{"id":1,"start":"2022-04-28 10:26:37","end":null,"project_id":"1","created_at":"2022-04-28T08:26:37.000000Z","updated_at":"2022-04-28T08:26:37.000000Z"}]}}  
+[2022-04-28 10:26:37] testing.INFO: Project 1 started  
+[2022-04-28 10:26:37] testing.INFO: here is send sms service  
+[2022-04-28 10:26:37] testing.INFO: SMS Project 1 started  
+[2022-04-28 10:26:37] testing.INFO: Project 1 stopped  
+[2022-04-28 10:26:37] testing.INFO: here is send sms service  
+[2022-04-28 10:26:37] testing.INFO: SMS Project 1 stopped  
+[2022-04-28 10:31:20] testing.INFO: {"start":"2022-04-28T08:31:20.313236Z","project_id":1,"updated_at":"2022-04-28T08:31:20.000000Z","created_at":"2022-04-28T08:31:20.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Weissnat-Mann","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-28T08:31:20.000000Z","updated_at":"2022-04-28T08:31:20.000000Z","entries":[{"id":1,"start":"2022-04-28 10:31:20","end":null,"project_id":"1","created_at":"2022-04-28T08:31:20.000000Z","updated_at":"2022-04-28T08:31:20.000000Z"}]}}  
+[2022-04-28 10:31:20] testing.INFO: Project 1 started  
+[2022-04-28 10:31:20] testing.INFO: here is send sms service  
+[2022-04-28 10:31:20] testing.INFO: SMS Project 1 started  
+[2022-04-28 10:31:20] testing.INFO: {"start":"2022-04-28T08:31:20.498092Z","project_id":1,"updated_at":"2022-04-28T08:31:20.000000Z","created_at":"2022-04-28T08:31:20.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Mosciski-Skiles","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-28T08:31:20.000000Z","updated_at":"2022-04-28T08:31:20.000000Z","entries":[{"id":1,"start":"2022-04-28 10:31:20","end":null,"project_id":"1","created_at":"2022-04-28T08:31:20.000000Z","updated_at":"2022-04-28T08:31:20.000000Z"}]}}  
+[2022-04-28 10:31:20] testing.INFO: Project 1 started  
+[2022-04-28 10:31:20] testing.INFO: here is send sms service  
+[2022-04-28 10:31:20] testing.INFO: SMS Project 1 started  
+[2022-04-28 10:31:20] testing.INFO: {"start":"2022-04-28T08:31:20.538759Z","project_id":1,"updated_at":"2022-04-28T08:31:20.000000Z","created_at":"2022-04-28T08:31:20.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Rodriguez PLC","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-28T08:31:20.000000Z","updated_at":"2022-04-28T08:31:20.000000Z","entries":[{"id":1,"start":"2022-04-28 10:31:20","end":null,"project_id":"1","created_at":"2022-04-28T08:31:20.000000Z","updated_at":"2022-04-28T08:31:20.000000Z"}]}}  
+[2022-04-28 10:31:20] testing.INFO: Project 1 started  
+[2022-04-28 10:31:20] testing.INFO: here is send sms service  
+[2022-04-28 10:31:20] testing.INFO: SMS Project 1 started  
+[2022-04-28 10:31:20] testing.INFO: Project 1 stopped  
+[2022-04-28 10:31:20] testing.INFO: here is send sms service  
+[2022-04-28 10:31:20] testing.INFO: SMS Project 1 stopped  
+[2022-04-28 10:31:20] testing.INFO: {"start":"2022-04-28T08:31:20.585096Z","project_id":1,"updated_at":"2022-04-28T08:31:20.000000Z","created_at":"2022-04-28T08:31:20.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"McClure LLC","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-28T08:31:20.000000Z","updated_at":"2022-04-28T08:31:20.000000Z","entries":[{"id":1,"start":"2022-04-28 10:31:20","end":null,"project_id":"1","created_at":"2022-04-28T08:31:20.000000Z","updated_at":"2022-04-28T08:31:20.000000Z"}]}}  
+[2022-04-28 10:31:20] testing.INFO: Project 1 started  
+[2022-04-28 10:31:20] testing.INFO: here is send sms service  
+[2022-04-28 10:31:20] testing.INFO: SMS Project 1 started  
+[2022-04-28 10:31:20] testing.INFO: Project 1 stopped  
+[2022-04-28 10:31:20] testing.INFO: here is send sms service  
+[2022-04-28 10:31:20] testing.INFO: SMS Project 1 stopped  
+[2022-04-28 10:31:20] testing.INFO: {"start":"2022-04-28T08:31:20.592055Z","project_id":2,"updated_at":"2022-04-28T08:31:20.000000Z","created_at":"2022-04-28T08:31:20.000000Z","id":2,"project":{"id":2,"user_id":"1","name":"Ward and Sons","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-28T08:31:20.000000Z","updated_at":"2022-04-28T08:31:20.000000Z","entries":[{"id":2,"start":"2022-04-28 10:31:20","end":null,"project_id":"2","created_at":"2022-04-28T08:31:20.000000Z","updated_at":"2022-04-28T08:31:20.000000Z"}]}}  
+[2022-04-28 10:31:20] testing.INFO: Project 2 started  
+[2022-04-28 10:31:20] testing.INFO: here is send sms service  
+[2022-04-28 10:31:20] testing.INFO: SMS Project 2 started  
+[2022-04-28 10:31:20] testing.INFO: {"start":"2022-04-28T08:31:20.626627Z","project_id":1,"updated_at":"2022-04-28T08:31:20.000000Z","created_at":"2022-04-28T08:31:20.000000Z","id":1,"project":{"id":1,"user_id":"1","name":"Wisoky, Barton and Kovacek","total_entries":1,"working_time_seconds":"0","is_stopped":false,"created_at":"2022-04-28T08:31:20.000000Z","updated_at":"2022-04-28T08:31:20.000000Z","entries":[{"id":1,"start":"2022-04-28 10:31:20","end":null,"project_id":"1","created_at":"2022-04-28T08:31:20.000000Z","updated_at":"2022-04-28T08:31:20.000000Z"}]}}  
+[2022-04-28 10:31:20] testing.INFO: Project 1 started  
+[2022-04-28 10:31:20] testing.INFO: here is send sms service  
+[2022-04-28 10:31:20] testing.INFO: SMS Project 1 started  
+[2022-04-28 10:31:20] testing.INFO: Project 1 stopped  
+[2022-04-28 10:31:20] testing.INFO: here is send sms service  
+[2022-04-28 10:31:20] testing.INFO: SMS Project 1 stopped  
+[2022-04-28 10:31:49] local.ERROR: Command "add" is not defined. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\CommandNotFoundException(code: 0): Command \"add\" is not defined. at C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\symfony\\console\\Application.php:644)
+[stacktrace]
+#0 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\symfony\\console\\Application.php(228): Symfony\\Component\\Console\\Application->find('add')
+#1 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\symfony\\console\\Application.php(140): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#2 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(93): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(129): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\laragon\\www\\Coding-Challenge-Fullstack-main\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
